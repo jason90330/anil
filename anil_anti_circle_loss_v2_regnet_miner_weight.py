@@ -344,7 +344,7 @@ if __name__ == '__main__':
     parser.add_argument('--data_path', default='../CelebA_Data/trainSquareCropped', type=str,
         help='Please specify path to the ImageNet training data.')
     parser.add_argument("--txt_path", default='../CelebA_Data/metas/intra_test/train_label.txt', type=str)
-    parser.add_argument('--results_path', type=str, default="output/anil_anti_circle_v2_regnet/", metavar='S',
+    parser.add_argument('--results_path', type=str, default="output/anil_anti_circle_v2_regnet_weights/", metavar='S',
                         help='output dir')
     parser.add_argument('--wandb_name', type=str, default="anil_anti_record_all", metavar='S',
                         help='wandb name')
