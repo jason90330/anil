@@ -367,6 +367,6 @@ if __name__ == '__main__':
     wandb.init(project=args.wandb_name, config = args)
     
     if not os.path.exists(args.results_path):
-        os.makedirs(args.results_path, exist_ok=True)  
+        os.makedirs(args.results_path,0o775, exist_ok=True)  
 
     main(args)
