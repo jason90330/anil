@@ -1,0 +1,6460 @@
+============================================================
+Model 000 
+TP:13644, TN:31400,  FP:15847,  FN:6279
+accuracy:0.670597
+precision:0.462650
+recall:0.684837
+f_measure:0.552232
+sensitivity:0.684837
+specificity:0.664592
+error_rate:0.329403
+apcer:0.335408
+bpcer:0.315163
+acer:0.325285
+eer:0.325652
+hter:0.325120
+TPR@FPR=10E-3:0.062311
+TPR@FPR=5E-3:0.032489
+TPR@FPR=10E-4:0.010816
+
+============================================================
+Model 001 
+TP:8558, TN:8381,  FP:38866,  FN:11365
+accuracy:0.252181
+precision:0.180457
+recall:0.429554
+f_measure:0.254146
+sensitivity:0.429554
+specificity:0.177387
+error_rate:0.747819
+apcer:0.822613
+bpcer:0.570446
+acer:0.696530
+eer:0.710194
+hter:0.500000
+TPR@FPR=10E-3:0.000339
+TPR@FPR=5E-3:0.000190
+TPR@FPR=10E-4:0.000063
+
+============================================================
+Model 002 
+TP:14836, TN:34354,  FP:12893,  FN:5087
+accuracy:0.732321
+precision:0.535036
+recall:0.744667
+f_measure:0.622681
+sensitivity:0.744667
+specificity:0.727115
+error_rate:0.267679
+apcer:0.272885
+bpcer:0.255333
+acer:0.264109
+eer:0.264753
+hter:0.263580
+TPR@FPR=10E-3:0.146401
+TPR@FPR=5E-3:0.103414
+TPR@FPR=10E-4:0.035261
+
+============================================================
+Model 003 
+TP:15374, TN:37364,  FP:9883,  FN:4549
+accuracy:0.785142
+precision:0.608703
+recall:0.771671
+f_measure:0.680567
+sensitivity:0.771671
+specificity:0.790823
+error_rate:0.214858
+apcer:0.209177
+bpcer:0.228329
+acer:0.218753
+eer:0.217409
+hter:0.215131
+TPR@FPR=10E-3:0.277012
+TPR@FPR=5E-3:0.212267
+TPR@FPR=10E-4:0.101170
+
+============================================================
+Model 004 
+TP:14155, TN:43546,  FP:3701,  FN:5768
+accuracy:0.859029
+precision:0.792731
+recall:0.710485
+f_measure:0.749358
+sensitivity:0.710485
+specificity:0.921667
+error_rate:0.140971
+apcer:0.078333
+bpcer:0.289515
+acer:0.183924
+eer:0.159462
+hter:0.159389
+TPR@FPR=10E-3:0.308612
+TPR@FPR=5E-3:0.209833
+TPR@FPR=10E-4:0.082481
+
+============================================================
+Model 005 
+TP:18038, TN:33735,  FP:13512,  FN:1885
+accuracy:0.770776
+precision:0.571727
+recall:0.905386
+f_measure:0.700872
+sensitivity:0.905386
+specificity:0.714014
+error_rate:0.229224
+apcer:0.285986
+bpcer:0.094614
+acer:0.190300
+eer:0.168086
+hter:0.167733
+TPR@FPR=10E-3:0.307533
+TPR@FPR=5E-3:0.212860
+TPR@FPR=10E-4:0.073952
+
+============================================================
+Model 006 
+TP:16084, TN:39211,  FP:8036,  FN:3839
+accuracy:0.823210
+precision:0.666833
+recall:0.807308
+f_measure:0.730377
+sensitivity:0.807308
+specificity:0.829915
+error_rate:0.176790
+apcer:0.170085
+bpcer:0.192692
+acer:0.181388
+eer:0.181460
+hter:0.180878
+TPR@FPR=10E-3:0.248291
+TPR@FPR=5E-3:0.173281
+TPR@FPR=10E-4:0.062798
+
+============================================================
+Model 007 
+TP:16106, TN:41892,  FP:5355,  FN:3817
+accuracy:0.863451
+precision:0.750478
+recall:0.808412
+f_measure:0.778368
+sensitivity:0.808412
+specificity:0.886659
+error_rate:0.136549
+apcer:0.113341
+bpcer:0.191588
+acer:0.152464
+eer:0.149999
+hter:0.149090
+TPR@FPR=10E-3:0.321311
+TPR@FPR=5E-3:0.209812
+TPR@FPR=10E-4:0.068872
+
+============================================================
+Model 008 
+TP:14607, TN:43809,  FP:3438,  FN:5316
+accuracy:0.869674
+precision:0.809476
+recall:0.733173
+f_measure:0.769437
+sensitivity:0.733173
+specificity:0.927233
+error_rate:0.130326
+apcer:0.072767
+bpcer:0.266827
+acer:0.169797
+eer:0.146706
+hter:0.145792
+TPR@FPR=10E-3:0.364870
+TPR@FPR=5E-3:0.257350
+TPR@FPR=10E-4:0.083942
+
+============================================================
+Model 009 
+TP:407, TN:21666,  FP:25581,  FN:19516
+accuracy:0.328614
+precision:0.015661
+recall:0.020429
+f_measure:0.017730
+sensitivity:0.020429
+specificity:0.458569
+error_rate:0.671386
+apcer:0.541431
+bpcer:0.979571
+acer:0.760501
+eer:0.856946
+hter:0.500000
+TPR@FPR=10E-3:0.000169
+TPR@FPR=5E-3:0.000063
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 010 
+TP:19583, TN:26400,  FP:20847,  FN:340
+accuracy:0.684576
+precision:0.484368
+recall:0.982934
+f_measure:0.648949
+sensitivity:0.982934
+specificity:0.558766
+error_rate:0.315424
+apcer:0.441234
+bpcer:0.017066
+acer:0.229150
+eer:0.133708
+hter:0.132623
+TPR@FPR=10E-3:0.470887
+TPR@FPR=5E-3:0.349546
+TPR@FPR=10E-4:0.136411
+
+============================================================
+Model 011 
+TP:18935, TN:36585,  FP:10662,  FN:988
+accuracy:0.826559
+precision:0.639761
+recall:0.950409
+f_measure:0.764742
+sensitivity:0.950409
+specificity:0.774335
+error_rate:0.173441
+apcer:0.225665
+bpcer:0.049591
+acer:0.137628
+eer:0.120046
+hter:0.118789
+TPR@FPR=10E-3:0.503397
+TPR@FPR=5E-3:0.357695
+TPR@FPR=10E-4:0.115097
+
+============================================================
+Model 012 
+TP:18678, TN:38727,  FP:8520,  FN:1245
+accuracy:0.854623
+precision:0.686742
+recall:0.937509
+f_measure:0.792768
+sensitivity:0.937509
+specificity:0.819671
+error_rate:0.145377
+apcer:0.180329
+bpcer:0.062491
+acer:0.121410
+eer:0.112030
+hter:0.111384
+TPR@FPR=10E-3:0.509937
+TPR@FPR=5E-3:0.403116
+TPR@FPR=10E-4:0.165111
+
+============================================================
+Model 013 
+TP:18027, TN:42278,  FP:4969,  FN:1896
+accuracy:0.897797
+precision:0.783919
+recall:0.904834
+f_measure:0.840048
+sensitivity:0.904834
+specificity:0.894829
+error_rate:0.102203
+apcer:0.105171
+bpcer:0.095166
+acer:0.100169
+eer:0.100238
+hter:0.099966
+TPR@FPR=10E-3:0.532986
+TPR@FPR=5E-3:0.390734
+TPR@FPR=10E-4:0.149279
+
+============================================================
+Model 014 
+TP:525, TN:12857,  FP:34390,  FN:19398
+accuracy:0.199226
+precision:0.015037
+recall:0.026351
+f_measure:0.019147
+sensitivity:0.026351
+specificity:0.272123
+error_rate:0.800774
+apcer:0.727877
+bpcer:0.973649
+acer:0.850763
+eer:0.894585
+hter:0.500000
+TPR@FPR=10E-3:0.000127
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 015 
+TP:1251, TN:6459,  FP:40788,  FN:18672
+accuracy:0.114783
+precision:0.029758
+recall:0.062792
+f_measure:0.040380
+sensitivity:0.062792
+specificity:0.136707
+error_rate:0.885217
+apcer:0.863293
+bpcer:0.937208
+acer:0.900251
+eer:0.907006
+hter:0.500000
+TPR@FPR=10E-3:0.000148
+TPR@FPR=5E-3:0.000148
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 016 
+TP:2218, TN:3344,  FP:43903,  FN:17705
+accuracy:0.082805
+precision:0.048091
+recall:0.111329
+f_measure:0.067167
+sensitivity:0.111329
+specificity:0.070777
+error_rate:0.917195
+apcer:0.929223
+bpcer:0.888671
+acer:0.908947
+eer:0.910762
+hter:0.500000
+TPR@FPR=10E-3:0.000063
+TPR@FPR=5E-3:0.000063
+TPR@FPR=10E-4:0.000063
+
+============================================================
+Model 017 
+TP:2490, TN:2898,  FP:44349,  FN:17433
+accuracy:0.080214
+precision:0.053161
+recall:0.124981
+f_measure:0.074593
+sensitivity:0.124981
+specificity:0.061337
+error_rate:0.919786
+apcer:0.938663
+bpcer:0.875019
+acer:0.906841
+eer:0.912462
+hter:0.500000
+TPR@FPR=10E-3:0.000741
+TPR@FPR=5E-3:0.000741
+TPR@FPR=10E-4:0.000741
+
+============================================================
+Model 018 
+TP:1300, TN:5929,  FP:41318,  FN:18623
+accuracy:0.107622
+precision:0.030504
+recall:0.065251
+f_measure:0.041573
+sensitivity:0.065251
+specificity:0.125489
+error_rate:0.892378
+apcer:0.874511
+bpcer:0.934749
+acer:0.904630
+eer:0.910314
+hter:0.500000
+TPR@FPR=10E-3:0.001333
+TPR@FPR=5E-3:0.001333
+TPR@FPR=10E-4:0.001333
+
+============================================================
+Model 019 
+TP:19694, TN:29580,  FP:17667,  FN:229
+accuracy:0.733572
+precision:0.527127
+recall:0.988506
+f_measure:0.687592
+sensitivity:0.988506
+specificity:0.626071
+error_rate:0.266428
+apcer:0.373929
+bpcer:0.011494
+acer:0.192711
+eer:0.113267
+hter:0.108826
+TPR@FPR=10E-3:0.606091
+TPR@FPR=5E-3:0.504244
+TPR@FPR=10E-4:0.269012
+
+============================================================
+Model 020 
+TP:315, TN:15173,  FP:32074,  FN:19608
+accuracy:0.230579
+precision:0.009726
+recall:0.015811
+f_measure:0.012043
+sensitivity:0.015811
+specificity:0.321142
+error_rate:0.769421
+apcer:0.678858
+bpcer:0.984189
+acer:0.831524
+eer:0.879378
+hter:0.500000
+TPR@FPR=10E-3:0.091900
+TPR@FPR=5E-3:0.091900
+TPR@FPR=10E-4:0.091900
+
+============================================================
+Model 021 
+TP:1021, TN:6647,  FP:40600,  FN:18902
+accuracy:0.114158
+precision:0.024531
+recall:0.051247
+f_measure:0.033180
+sensitivity:0.051247
+specificity:0.140686
+error_rate:0.885842
+apcer:0.859314
+bpcer:0.948753
+acer:0.904033
+eer:0.912945
+hter:0.500000
+TPR@FPR=10E-3:0.000402
+TPR@FPR=5E-3:0.000190
+TPR@FPR=10E-4:0.000042
+
+============================================================
+Model 022 
+TP:3103, TN:1870,  FP:45377,  FN:16820
+accuracy:0.074036
+precision:0.064006
+recall:0.155750
+f_measure:0.090727
+sensitivity:0.155750
+specificity:0.039579
+error_rate:0.925964
+apcer:0.960421
+bpcer:0.844250
+acer:0.902336
+eer:0.920338
+hter:0.500000
+TPR@FPR=10E-3:0.017927
+TPR@FPR=5E-3:0.017927
+TPR@FPR=10E-4:0.017927
+
+============================================================
+Model 023 
+TP:3074, TN:1684,  FP:45563,  FN:16849
+accuracy:0.070835
+precision:0.063203
+recall:0.154294
+f_measure:0.089673
+sensitivity:0.154294
+specificity:0.035642
+error_rate:0.929165
+apcer:0.964358
+bpcer:0.845706
+acer:0.905032
+eer:0.923699
+hter:0.500000
+TPR@FPR=10E-3:0.010477
+TPR@FPR=5E-3:0.010477
+TPR@FPR=10E-4:0.010477
+
+============================================================
+Model 024 
+TP:18562, TN:43218,  FP:4029,  FN:1361
+accuracy:0.919756
+precision:0.821655
+recall:0.931687
+f_measure:0.873218
+sensitivity:0.931687
+specificity:0.914725
+error_rate:0.080244
+apcer:0.085275
+bpcer:0.068313
+acer:0.076794
+eer:0.076401
+hter:0.076255
+TPR@FPR=10E-3:0.819735
+TPR@FPR=5E-3:0.819735
+TPR@FPR=10E-4:0.819735
+
+============================================================
+Model 025 
+TP:19753, TN:30317,  FP:16930,  FN:170
+accuracy:0.745422
+precision:0.538478
+recall:0.991467
+f_measure:0.697912
+sensitivity:0.991467
+specificity:0.641670
+error_rate:0.254578
+apcer:0.358330
+bpcer:0.008533
+acer:0.183431
+eer:0.095565
+hter:0.091539
+TPR@FPR=10E-3:0.667683
+TPR@FPR=5E-3:0.575613
+TPR@FPR=10E-4:0.324465
+
+============================================================
+Model 026 
+TP:19786, TN:29175,  FP:18072,  FN:137
+accuracy:0.728912
+precision:0.522637
+recall:0.993124
+f_measure:0.684862
+sensitivity:0.993124
+specificity:0.617500
+error_rate:0.271088
+apcer:0.382500
+bpcer:0.006876
+acer:0.194688
+eer:0.101144
+hter:0.097349
+TPR@FPR=10E-3:0.667958
+TPR@FPR=5E-3:0.580883
+TPR@FPR=10E-4:0.336677
+
+============================================================
+Model 027 
+TP:19564, TN:36258,  FP:10989,  FN:359
+accuracy:0.831056
+precision:0.640330
+recall:0.981981
+f_measure:0.775180
+sensitivity:0.981981
+specificity:0.767414
+error_rate:0.168944
+apcer:0.232586
+bpcer:0.018019
+acer:0.125303
+eer:0.086781
+hter:0.084848
+TPR@FPR=10E-3:0.682922
+TPR@FPR=5E-3:0.578746
+TPR@FPR=10E-4:0.352932
+
+============================================================
+Model 028 
+TP:755, TN:6385,  FP:40862,  FN:19168
+accuracy:0.106297
+precision:0.018142
+recall:0.037896
+f_measure:0.024537
+sensitivity:0.037896
+specificity:0.135141
+error_rate:0.893703
+apcer:0.864859
+bpcer:0.962104
+acer:0.913482
+eer:0.924363
+hter:0.500000
+TPR@FPR=10E-3:0.070946
+TPR@FPR=5E-3:0.070946
+TPR@FPR=10E-4:0.070946
+
+============================================================
+Model 029 
+TP:18953, TN:42002,  FP:5245,  FN:970
+accuracy:0.907474
+precision:0.783247
+recall:0.951313
+f_measure:0.859137
+sensitivity:0.951313
+specificity:0.888988
+error_rate:0.092526
+apcer:0.111012
+bpcer:0.048687
+acer:0.079850
+eer:0.075494
+hter:0.075191
+TPR@FPR=10E-3:0.665587
+TPR@FPR=5E-3:0.562681
+TPR@FPR=10E-4:0.343895
+
+============================================================
+Model 030 
+TP:18737, TN:42701,  FP:4546,  FN:1186
+accuracy:0.914664
+precision:0.804750
+recall:0.940471
+f_measure:0.867333
+sensitivity:0.940471
+specificity:0.903782
+error_rate:0.085336
+apcer:0.096218
+bpcer:0.059529
+acer:0.077873
+eer:0.076226
+hter:0.075937
+TPR@FPR=10E-3:0.655724
+TPR@FPR=5E-3:0.560332
+TPR@FPR=10E-4:0.342731
+
+============================================================
+Model 031 
+TP:1009, TN:5202,  FP:42045,  FN:18914
+accuracy:0.092467
+precision:0.023436
+recall:0.050645
+f_measure:0.032043
+sensitivity:0.050645
+specificity:0.110102
+error_rate:0.907533
+apcer:0.889898
+bpcer:0.949355
+acer:0.919626
+eer:0.923991
+hter:0.500000
+TPR@FPR=10E-3:0.051855
+TPR@FPR=5E-3:0.051855
+TPR@FPR=10E-4:0.051855
+
+============================================================
+Model 032 
+TP:19737, TN:31266,  FP:15981,  FN:186
+accuracy:0.759312
+precision:0.552579
+recall:0.990664
+f_measure:0.709441
+sensitivity:0.990664
+specificity:0.661756
+error_rate:0.240688
+apcer:0.338244
+bpcer:0.009336
+acer:0.173790
+eer:0.091340
+hter:0.089255
+TPR@FPR=10E-3:0.673207
+TPR@FPR=5E-3:0.594323
+TPR@FPR=10E-4:0.377251
+
+============================================================
+Model 033 
+TP:195, TN:15805,  FP:31442,  FN:19728
+accuracy:0.238202
+precision:0.006164
+recall:0.009788
+f_measure:0.007564
+sensitivity:0.009788
+specificity:0.334519
+error_rate:0.761798
+apcer:0.665481
+bpcer:0.990212
+acer:0.827847
+eer:0.872727
+hter:0.500000
+TPR@FPR=10E-3:0.232311
+TPR@FPR=5E-3:0.232311
+TPR@FPR=10E-4:0.232311
+
+============================================================
+Model 034 
+TP:19731, TN:31628,  FP:15619,  FN:192
+accuracy:0.764612
+precision:0.558161
+recall:0.990363
+f_measure:0.713947
+sensitivity:0.990363
+specificity:0.669418
+error_rate:0.235388
+apcer:0.330582
+bpcer:0.009637
+acer:0.170109
+eer:0.091180
+hter:0.088645
+TPR@FPR=10E-3:0.682774
+TPR@FPR=5E-3:0.608631
+TPR@FPR=10E-4:0.398396
+
+============================================================
+Model 035 
+TP:19491, TN:38833,  FP:8414,  FN:432
+accuracy:0.868304
+precision:0.698477
+recall:0.978317
+f_measure:0.815046
+sensitivity:0.978317
+specificity:0.821915
+error_rate:0.131696
+apcer:0.178085
+bpcer:0.021683
+acer:0.099884
+eer:0.075668
+hter:0.074993
+TPR@FPR=10E-3:0.712892
+TPR@FPR=5E-3:0.605202
+TPR@FPR=10E-4:0.398755
+
+============================================================
+Model 036 
+TP:19385, TN:40600,  FP:6647,  FN:538
+accuracy:0.893033
+precision:0.744660
+recall:0.972996
+f_measure:0.843651
+sensitivity:0.972996
+specificity:0.859314
+error_rate:0.106967
+apcer:0.140686
+bpcer:0.027004
+acer:0.083845
+eer:0.067549
+hter:0.067068
+TPR@FPR=10E-3:0.722967
+TPR@FPR=5E-3:0.604292
+TPR@FPR=10E-4:0.378162
+
+============================================================
+Model 037 
+TP:19341, TN:41301,  FP:5946,  FN:582
+accuracy:0.902814
+precision:0.764859
+recall:0.970788
+f_measure:0.855607
+sensitivity:0.970788
+specificity:0.874151
+error_rate:0.097186
+apcer:0.125849
+bpcer:0.029212
+acer:0.077531
+eer:0.062959
+hter:0.062449
+TPR@FPR=10E-3:0.735221
+TPR@FPR=5E-3:0.623405
+TPR@FPR=10E-4:0.383707
+
+============================================================
+Model 038 
+TP:19555, TN:39442,  FP:7805,  FN:368
+accuracy:0.878324
+precision:0.714730
+recall:0.981529
+f_measure:0.827147
+sensitivity:0.981529
+specificity:0.834804
+error_rate:0.121676
+apcer:0.165196
+bpcer:0.018471
+acer:0.091833
+eer:0.061440
+hter:0.060962
+TPR@FPR=10E-3:0.758503
+TPR@FPR=5E-3:0.641057
+TPR@FPR=10E-4:0.375728
+
+============================================================
+Model 039 
+TP:19713, TN:36422,  FP:10825,  FN:210
+accuracy:0.835715
+precision:0.645524
+recall:0.989459
+f_measure:0.781316
+sensitivity:0.989459
+specificity:0.770885
+error_rate:0.164285
+apcer:0.229115
+bpcer:0.010541
+acer:0.119828
+eer:0.062027
+hter:0.061509
+TPR@FPR=10E-3:0.758016
+TPR@FPR=5E-3:0.661820
+TPR@FPR=10E-4:0.409931
+
+============================================================
+Model 040 
+TP:235, TN:9779,  FP:37468,  FN:19688
+accuracy:0.149084
+precision:0.006233
+recall:0.011795
+f_measure:0.008156
+sensitivity:0.011795
+specificity:0.206976
+error_rate:0.850916
+apcer:0.793024
+bpcer:0.988205
+acer:0.890614
+eer:0.931456
+hter:0.500000
+TPR@FPR=10E-3:0.102906
+TPR@FPR=5E-3:0.102906
+TPR@FPR=10E-4:0.102906
+
+============================================================
+Model 041 
+TP:413, TN:6809,  FP:40438,  FN:19510
+accuracy:0.107518
+precision:0.010110
+recall:0.020730
+f_measure:0.013591
+sensitivity:0.020730
+specificity:0.144115
+error_rate:0.892482
+apcer:0.855885
+bpcer:0.979270
+acer:0.917578
+eer:0.939969
+hter:0.500000
+TPR@FPR=10E-3:0.067962
+TPR@FPR=5E-3:0.067962
+TPR@FPR=10E-4:0.067962
+
+============================================================
+Model 042 
+TP:19351, TN:41731,  FP:5516,  FN:572
+accuracy:0.909364
+precision:0.778180
+recall:0.971289
+f_measure:0.864077
+sensitivity:0.971289
+specificity:0.883252
+error_rate:0.090636
+apcer:0.116748
+bpcer:0.028711
+acer:0.072729
+eer:0.059235
+hter:0.059078
+TPR@FPR=10E-3:0.751392
+TPR@FPR=5E-3:0.631680
+TPR@FPR=10E-4:0.360404
+
+============================================================
+Model 043 
+TP:1191, TN:2688,  FP:44559,  FN:18732
+accuracy:0.057749
+precision:0.026033
+recall:0.059780
+f_measure:0.036271
+sensitivity:0.059780
+specificity:0.056893
+error_rate:0.942251
+apcer:0.943107
+bpcer:0.940220
+acer:0.941664
+eer:0.941438
+hter:0.500000
+TPR@FPR=10E-3:0.006561
+TPR@FPR=5E-3:0.006561
+TPR@FPR=10E-4:0.006561
+
+============================================================
+Model 044 
+TP:19667, TN:37755,  FP:9492,  FN:256
+accuracy:0.854876
+precision:0.674474
+recall:0.987151
+f_measure:0.801394
+sensitivity:0.987151
+specificity:0.799098
+error_rate:0.145124
+apcer:0.200902
+bpcer:0.012849
+acer:0.106876
+eer:0.059750
+hter:0.059499
+TPR@FPR=10E-3:0.763244
+TPR@FPR=5E-3:0.671111
+TPR@FPR=10E-4:0.385315
+
+============================================================
+Model 045 
+TP:19764, TN:34921,  FP:12326,  FN:159
+accuracy:0.814128
+precision:0.615893
+recall:0.992019
+f_measure:0.759964
+sensitivity:0.992019
+specificity:0.739116
+error_rate:0.185872
+apcer:0.260884
+bpcer:0.007981
+acer:0.134433
+eer:0.063392
+hter:0.063142
+TPR@FPR=10E-3:0.762249
+TPR@FPR=5E-3:0.668423
+TPR@FPR=10E-4:0.383728
+
+============================================================
+Model 046 
+TP:342, TN:8177,  FP:39070,  FN:19581
+accuracy:0.126827
+precision:0.008678
+recall:0.017166
+f_measure:0.011528
+sensitivity:0.017166
+specificity:0.173069
+error_rate:0.873173
+apcer:0.826931
+bpcer:0.982834
+acer:0.904882
+eer:0.935644
+hter:0.500000
+TPR@FPR=10E-3:0.005609
+TPR@FPR=5E-3:0.005609
+TPR@FPR=10E-4:0.005609
+
+============================================================
+Model 047 
+TP:19754, TN:35164,  FP:12083,  FN:169
+accuracy:0.817597
+precision:0.620473
+recall:0.991517
+f_measure:0.763292
+sensitivity:0.991517
+specificity:0.744259
+error_rate:0.182403
+apcer:0.255741
+bpcer:0.008483
+acer:0.132112
+eer:0.069270
+hter:0.068064
+TPR@FPR=10E-3:0.757614
+TPR@FPR=5E-3:0.660317
+TPR@FPR=10E-4:0.388469
+
+============================================================
+Model 048 
+TP:649, TN:5361,  FP:41886,  FN:19274
+accuracy:0.089474
+precision:0.015258
+recall:0.032575
+f_measure:0.020782
+sensitivity:0.032575
+specificity:0.113468
+error_rate:0.910526
+apcer:0.886532
+bpcer:0.967425
+acer:0.926979
+eer:0.936896
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 049 
+TP:19473, TN:39877,  FP:7370,  FN:450
+accuracy:0.883579
+precision:0.725441
+recall:0.977413
+f_measure:0.832785
+sensitivity:0.977413
+specificity:0.844011
+error_rate:0.116421
+apcer:0.155989
+bpcer:0.022587
+acer:0.089288
+eer:0.064669
+hter:0.064091
+TPR@FPR=10E-3:0.743624
+TPR@FPR=5E-3:0.651301
+TPR@FPR=10E-4:0.345630
+
+============================================================
+Model 050 
+TP:1233, TN:2790,  FP:44457,  FN:18690
+accuracy:0.059893
+precision:0.026986
+recall:0.061888
+f_measure:0.037584
+sensitivity:0.061888
+specificity:0.059051
+error_rate:0.940107
+apcer:0.940949
+bpcer:0.938112
+acer:0.939530
+eer:0.939766
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 051 
+TP:1179, TN:2929,  FP:44318,  FN:18744
+accuracy:0.061158
+precision:0.025914
+recall:0.059178
+f_measure:0.036044
+sensitivity:0.059178
+specificity:0.061993
+error_rate:0.938842
+apcer:0.938007
+bpcer:0.940822
+acer:0.939414
+eer:0.939261
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 052 
+TP:477, TN:7436,  FP:39811,  FN:19446
+accuracy:0.117806
+precision:0.011840
+recall:0.023942
+f_measure:0.015844
+sensitivity:0.023942
+specificity:0.157386
+error_rate:0.882194
+apcer:0.842614
+bpcer:0.976058
+acer:0.909336
+eer:0.931135
+hter:0.500000
+TPR@FPR=10E-3:0.010054
+TPR@FPR=5E-3:0.010054
+TPR@FPR=10E-4:0.010054
+
+============================================================
+Model 053 
+TP:486, TN:7455,  FP:39792,  FN:19437
+accuracy:0.118222
+precision:0.012066
+recall:0.024394
+f_measure:0.016146
+sensitivity:0.024394
+specificity:0.157788
+error_rate:0.881778
+apcer:0.842212
+bpcer:0.975606
+acer:0.908909
+eer:0.928525
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 054 
+TP:514, TN:7091,  FP:40156,  FN:19409
+accuracy:0.113220
+precision:0.012638
+recall:0.025799
+f_measure:0.016966
+sensitivity:0.025799
+specificity:0.150084
+error_rate:0.886780
+apcer:0.849916
+bpcer:0.974201
+acer:0.912059
+eer:0.928880
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 055 
+TP:19664, TN:36723,  FP:10524,  FN:259
+accuracy:0.839467
+precision:0.651385
+recall:0.987000
+f_measure:0.784818
+sensitivity:0.987000
+specificity:0.777256
+error_rate:0.160533
+apcer:0.222744
+bpcer:0.013000
+acer:0.117872
+eer:0.070522
+hter:0.069355
+TPR@FPR=10E-3:0.746079
+TPR@FPR=5E-3:0.661820
+TPR@FPR=10E-4:0.387813
+
+============================================================
+Model 056 
+TP:19524, TN:39348,  FP:7899,  FN:399
+accuracy:0.876463
+precision:0.711957
+recall:0.979973
+f_measure:0.824737
+sensitivity:0.979973
+specificity:0.832815
+error_rate:0.123537
+apcer:0.167185
+bpcer:0.020027
+acer:0.093606
+eer:0.064875
+hter:0.064008
+TPR@FPR=10E-3:0.756535
+TPR@FPR=5E-3:0.666899
+TPR@FPR=10E-4:0.395729
+
+============================================================
+Model 057 
+TP:1165, TN:2963,  FP:44284,  FN:18758
+accuracy:0.061456
+precision:0.025633
+recall:0.058475
+f_measure:0.035642
+sensitivity:0.058475
+specificity:0.062713
+error_rate:0.938544
+apcer:0.937287
+bpcer:0.941525
+acer:0.939406
+eer:0.939616
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 058 
+TP:19518, TN:39616,  FP:7631,  FN:405
+accuracy:0.880363
+precision:0.718922
+recall:0.979672
+f_measure:0.829283
+sensitivity:0.979672
+specificity:0.838487
+error_rate:0.119637
+apcer:0.161513
+bpcer:0.020328
+acer:0.090921
+eer:0.065793
+hter:0.065033
+TPR@FPR=10E-3:0.770589
+TPR@FPR=5E-3:0.688446
+TPR@FPR=10E-4:0.445806
+
+============================================================
+Model 059 
+TP:588, TN:5952,  FP:41295,  FN:19335
+accuracy:0.097365
+precision:0.014039
+recall:0.029514
+f_measure:0.019027
+sensitivity:0.029514
+specificity:0.125976
+error_rate:0.902635
+apcer:0.874024
+bpcer:0.970486
+acer:0.922255
+eer:0.933155
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 060 
+TP:527, TN:6437,  FP:40810,  FN:19396
+accuracy:0.103677
+precision:0.012749
+recall:0.026452
+f_measure:0.017205
+sensitivity:0.026452
+specificity:0.136241
+error_rate:0.896323
+apcer:0.863759
+bpcer:0.973548
+acer:0.918653
+eer:0.932188
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 061 
+TP:19581, TN:38981,  FP:8266,  FN:342
+accuracy:0.871848
+precision:0.703164
+recall:0.982834
+f_measure:0.819803
+sensitivity:0.982834
+specificity:0.825047
+error_rate:0.128152
+apcer:0.174953
+bpcer:0.017166
+acer:0.096059
+eer:0.066386
+hter:0.065697
+TPR@FPR=10E-3:0.772366
+TPR@FPR=5E-3:0.690351
+TPR@FPR=10E-4:0.456262
+
+============================================================
+Model 062 
+TP:19639, TN:37998,  FP:9249,  FN:284
+accuracy:0.858077
+precision:0.679832
+recall:0.985745
+f_measure:0.804696
+sensitivity:0.985745
+specificity:0.804242
+error_rate:0.141923
+apcer:0.195758
+bpcer:0.014255
+acer:0.105007
+eer:0.067009
+hter:0.066108
+TPR@FPR=10E-3:0.770525
+TPR@FPR=5E-3:0.684382
+TPR@FPR=10E-4:0.399031
+
+============================================================
+Model 063 
+TP:818, TN:4416,  FP:42831,  FN:19105
+accuracy:0.077922
+precision:0.018740
+recall:0.041058
+f_measure:0.025735
+sensitivity:0.041058
+specificity:0.093466
+error_rate:0.922078
+apcer:0.906534
+bpcer:0.958942
+acer:0.932738
+eer:0.936665
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 064 
+TP:19554, TN:39254,  FP:7993,  FN:369
+accuracy:0.875510
+precision:0.709841
+recall:0.981479
+f_measure:0.823847
+sensitivity:0.981479
+specificity:0.830825
+error_rate:0.124490
+apcer:0.169175
+bpcer:0.018521
+acer:0.093848
+eer:0.067044
+hter:0.066067
+TPR@FPR=10E-3:0.773552
+TPR@FPR=5E-3:0.687515
+TPR@FPR=10E-4:0.464199
+
+============================================================
+Model 065 
+TP:566, TN:6116,  FP:41131,  FN:19357
+accuracy:0.099479
+precision:0.013574
+recall:0.028409
+f_measure:0.018371
+sensitivity:0.028409
+specificity:0.129447
+error_rate:0.900521
+apcer:0.870553
+bpcer:0.971591
+acer:0.921072
+eer:0.931224
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 066 
+TP:311, TN:9402,  FP:37845,  FN:19612
+accuracy:0.144603
+precision:0.008151
+recall:0.015610
+f_measure:0.010710
+sensitivity:0.015610
+specificity:0.198997
+error_rate:0.855397
+apcer:0.801003
+bpcer:0.984390
+acer:0.892697
+eer:0.920932
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 067 
+TP:298, TN:9790,  FP:37457,  FN:19625
+accuracy:0.150186
+precision:0.007893
+recall:0.014958
+f_measure:0.010333
+sensitivity:0.014958
+specificity:0.207209
+error_rate:0.849814
+apcer:0.792791
+bpcer:0.985042
+acer:0.888917
+eer:0.919278
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 068 
+TP:388, TN:7657,  FP:39590,  FN:19535
+accuracy:0.119771
+precision:0.009705
+recall:0.019475
+f_measure:0.012955
+sensitivity:0.019475
+specificity:0.162063
+error_rate:0.880229
+apcer:0.837937
+bpcer:0.980525
+acer:0.909231
+eer:0.930075
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 069 
+TP:805, TN:4038,  FP:43209,  FN:19118
+accuracy:0.072101
+precision:0.018290
+recall:0.040406
+f_measure:0.025181
+sensitivity:0.040406
+specificity:0.085466
+error_rate:0.927899
+apcer:0.914534
+bpcer:0.959594
+acer:0.937064
+eer:0.940010
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 070 
+TP:994, TN:3042,  FP:44205,  FN:18929
+accuracy:0.060086
+precision:0.021992
+recall:0.049892
+f_measure:0.030527
+sensitivity:0.049892
+specificity:0.064385
+error_rate:0.939914
+apcer:0.935615
+bpcer:0.950108
+acer:0.942861
+eer:0.942692
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 071 
+TP:19255, TN:42944,  FP:4303,  FN:668
+accuracy:0.925994
+precision:0.817344
+recall:0.966471
+f_measure:0.885674
+sensitivity:0.966471
+specificity:0.908925
+error_rate:0.074006
+apcer:0.091075
+bpcer:0.033529
+acer:0.062302
+eer:0.056607
+hter:0.056349
+TPR@FPR=10E-3:0.812157
+TPR@FPR=5E-3:0.796156
+TPR@FPR=10E-4:0.780981
+
+============================================================
+Model 072 
+TP:19763, TN:37275,  FP:9972,  FN:160
+accuracy:0.849159
+precision:0.664638
+recall:0.991969
+f_measure:0.795964
+sensitivity:0.991969
+specificity:0.788939
+error_rate:0.150841
+apcer:0.211061
+bpcer:0.008031
+acer:0.109546
+eer:0.060718
+hter:0.059480
+TPR@FPR=10E-3:0.809258
+TPR@FPR=5E-3:0.726649
+TPR@FPR=10E-4:0.511292
+
+============================================================
+Model 073 
+TP:19824, TN:33842,  FP:13405,  FN:99
+accuracy:0.798958
+precision:0.596587
+recall:0.995031
+f_measure:0.745936
+sensitivity:0.995031
+specificity:0.716278
+error_rate:0.201042
+apcer:0.283722
+bpcer:0.004969
+acer:0.144345
+eer:0.065818
+hter:0.064179
+TPR@FPR=10E-3:0.807586
+TPR@FPR=5E-3:0.718797
+TPR@FPR=10E-4:0.523673
+
+============================================================
+Model 074 
+TP:405, TN:6438,  FP:40809,  FN:19518
+accuracy:0.101876
+precision:0.009827
+recall:0.020328
+f_measure:0.013249
+sensitivity:0.020328
+specificity:0.136263
+error_rate:0.898124
+apcer:0.863737
+bpcer:0.979672
+acer:0.921705
+eer:0.942867
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 075 
+TP:19745, TN:37871,  FP:9376,  FN:178
+accuracy:0.857764
+precision:0.678033
+recall:0.991066
+f_measure:0.805195
+sensitivity:0.991066
+specificity:0.801554
+error_rate:0.142236
+apcer:0.198446
+bpcer:0.008934
+acer:0.103690
+eer:0.058271
+hter:0.057679
+TPR@FPR=10E-3:0.814232
+TPR@FPR=5E-3:0.731306
+TPR@FPR=10E-4:0.508731
+
+============================================================
+Model 076 
+TP:19647, TN:39874,  FP:7373,  FN:276
+accuracy:0.886125
+precision:0.727128
+recall:0.986147
+f_measure:0.837058
+sensitivity:0.986147
+specificity:0.843948
+error_rate:0.113875
+apcer:0.156052
+bpcer:0.013853
+acer:0.084953
+eer:0.055526
+hter:0.055205
+TPR@FPR=10E-3:0.819375
+TPR@FPR=5E-3:0.743137
+TPR@FPR=10E-4:0.511059
+
+============================================================
+Model 077 
+TP:1034, TN:2552,  FP:44695,  FN:18889
+accuracy:0.053387
+precision:0.022611
+recall:0.051900
+f_measure:0.031499
+sensitivity:0.051900
+specificity:0.054014
+error_rate:0.946613
+apcer:0.945986
+bpcer:0.948100
+acer:0.947043
+eer:0.947045
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 078 
+TP:19497, TN:41575,  FP:5672,  FN:426
+accuracy:0.909215
+precision:0.774643
+recall:0.978618
+f_measure:0.864765
+sensitivity:0.978618
+specificity:0.879950
+error_rate:0.090785
+apcer:0.120050
+bpcer:0.021382
+acer:0.070716
+eer:0.053758
+hter:0.053324
+TPR@FPR=10E-3:0.820348
+TPR@FPR=5E-3:0.757254
+TPR@FPR=10E-4:0.544013
+
+============================================================
+Model 079 
+TP:520, TN:4731,  FP:42516,  FN:19403
+accuracy:0.078175
+precision:0.012083
+recall:0.026100
+f_measure:0.016519
+sensitivity:0.026100
+specificity:0.100133
+error_rate:0.921825
+apcer:0.899867
+bpcer:0.973900
+acer:0.936883
+eer:0.946412
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 080 
+TP:265, TN:8095,  FP:39152,  FN:19658
+accuracy:0.124460
+precision:0.006723
+recall:0.013301
+f_measure:0.008932
+sensitivity:0.013301
+specificity:0.171334
+error_rate:0.875540
+apcer:0.828666
+bpcer:0.986699
+acer:0.907683
+eer:0.937330
+hter:0.500000
+TPR@FPR=10E-3:0.000042
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 081 
+TP:160, TN:11945,  FP:35302,  FN:19763
+accuracy:0.180214
+precision:0.004512
+recall:0.008031
+f_measure:0.005778
+sensitivity:0.008031
+specificity:0.252820
+error_rate:0.819786
+apcer:0.747180
+bpcer:0.991969
+acer:0.869574
+eer:0.922714
+hter:0.500000
+TPR@FPR=10E-3:0.000106
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 082 
+TP:0, TN:47247,  FP:0,  FN:19923
+accuracy:0.703394
+precision:nan
+recall:0.000000
+f_measure:nan
+sensitivity:0.000000
+specificity:1.000000
+error_rate:0.296606
+apcer:0.000000
+bpcer:1.000000
+acer:0.500000
+eer:0.084679
+hter:0.082951
+TPR@FPR=10E-3:0.739962
+TPR@FPR=5E-3:0.662920
+TPR@FPR=10E-4:0.463924
+
+============================================================
+Model 083 
+TP:19800, TN:32890,  FP:14357,  FN:123
+accuracy:0.784428
+precision:0.579676
+recall:0.993826
+f_measure:0.732249
+sensitivity:0.993826
+specificity:0.696129
+error_rate:0.215572
+apcer:0.303871
+bpcer:0.006174
+acer:0.155022
+eer:0.073428
+hter:0.072806
+TPR@FPR=10E-3:0.753148
+TPR@FPR=5E-3:0.674413
+TPR@FPR=10E-4:0.478824
+
+============================================================
+Model 084 
+TP:19558, TN:39239,  FP:8008,  FN:365
+accuracy:0.875346
+precision:0.709497
+recall:0.981679
+f_measure:0.823685
+sensitivity:0.981679
+specificity:0.830508
+error_rate:0.124654
+apcer:0.169492
+bpcer:0.018321
+acer:0.093906
+eer:0.062866
+hter:0.062556
+TPR@FPR=10E-3:0.761064
+TPR@FPR=5E-3:0.679535
+TPR@FPR=10E-4:0.482761
+
+============================================================
+Model 085 
+TP:19353, TN:41430,  FP:5817,  FN:570
+accuracy:0.904913
+precision:0.768892
+recall:0.971390
+f_measure:0.858359
+sensitivity:0.971390
+specificity:0.876881
+error_rate:0.095087
+apcer:0.123119
+bpcer:0.028610
+acer:0.075865
+eer:0.060739
+hter:0.060496
+TPR@FPR=10E-3:0.757191
+TPR@FPR=5E-3:0.674794
+TPR@FPR=10E-4:0.476051
+
+============================================================
+Model 086 
+TP:19432, TN:40973,  FP:6274,  FN:491
+accuracy:0.899285
+precision:0.755932
+recall:0.975355
+f_measure:0.851739
+sensitivity:0.975355
+specificity:0.867209
+error_rate:0.100715
+apcer:0.132791
+bpcer:0.024645
+acer:0.078718
+eer:0.060017
+hter:0.059904
+TPR@FPR=10E-3:0.763816
+TPR@FPR=5E-3:0.678456
+TPR@FPR=10E-4:0.489851
+
+============================================================
+Model 087 
+TP:19739, TN:35851,  FP:11396,  FN:184
+accuracy:0.827602
+precision:0.633981
+recall:0.990764
+f_measure:0.773199
+sensitivity:0.990764
+specificity:0.758800
+error_rate:0.172398
+apcer:0.241200
+bpcer:0.009236
+acer:0.125218
+eer:0.061347
+hter:0.061072
+TPR@FPR=10E-3:0.768768
+TPR@FPR=5E-3:0.680318
+TPR@FPR=10E-4:0.486274
+
+============================================================
+Model 088 
+TP:19808, TN:33992,  FP:13255,  FN:115
+accuracy:0.800953
+precision:0.599099
+recall:0.994228
+f_measure:0.747669
+sensitivity:0.994228
+specificity:0.719453
+error_rate:0.199047
+apcer:0.280547
+bpcer:0.005772
+acer:0.143160
+eer:0.065231
+hter:0.064085
+TPR@FPR=10E-3:0.775943
+TPR@FPR=5E-3:0.697695
+TPR@FPR=10E-4:0.514086
+
+============================================================
+Model 089 
+TP:208, TN:9933,  FP:37314,  FN:19715
+accuracy:0.150975
+precision:0.005543
+recall:0.010440
+f_measure:0.007242
+sensitivity:0.010440
+specificity:0.210236
+error_rate:0.849025
+apcer:0.789764
+bpcer:0.989560
+acer:0.889662
+eer:0.934954
+hter:0.500000
+TPR@FPR=10E-3:0.000106
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 090 
+TP:214, TN:9494,  FP:37753,  FN:19709
+accuracy:0.144529
+precision:0.005636
+recall:0.010741
+f_measure:0.007393
+sensitivity:0.010741
+specificity:0.200944
+error_rate:0.855471
+apcer:0.799056
+bpcer:0.989259
+acer:0.894157
+eer:0.937813
+hter:0.500000
+TPR@FPR=10E-3:0.000106
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 091 
+TP:19736, TN:37462,  FP:9785,  FN:187
+accuracy:0.851541
+precision:0.668541
+recall:0.990614
+f_measure:0.798317
+sensitivity:0.990614
+specificity:0.792897
+error_rate:0.148459
+apcer:0.207103
+bpcer:0.009386
+acer:0.108245
+eer:0.055963
+hter:0.055682
+TPR@FPR=10E-3:0.797786
+TPR@FPR=5E-3:0.733676
+TPR@FPR=10E-4:0.514234
+
+============================================================
+Model 092 
+TP:19535, TN:41345,  FP:5902,  FN:388
+accuracy:0.906357
+precision:0.767976
+recall:0.980525
+f_measure:0.861332
+sensitivity:0.980525
+specificity:0.875082
+error_rate:0.093643
+apcer:0.124918
+bpcer:0.019475
+acer:0.072196
+eer:0.052702
+hter:0.052541
+TPR@FPR=10E-3:0.809872
+TPR@FPR=5E-3:0.736830
+TPR@FPR=10E-4:0.520414
+
+============================================================
+Model 093 
+TP:1429, TN:1706,  FP:45541,  FN:18494
+accuracy:0.046673
+precision:0.030424
+recall:0.071726
+f_measure:0.042725
+sensitivity:0.071726
+specificity:0.036108
+error_rate:0.953327
+apcer:0.963892
+bpcer:0.928274
+acer:0.946083
+eer:0.948791
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 094 
+TP:759, TN:3111,  FP:44136,  FN:19164
+accuracy:0.057615
+precision:0.016906
+recall:0.038097
+f_measure:0.023419
+sensitivity:0.038097
+specificity:0.065845
+error_rate:0.942385
+apcer:0.934155
+bpcer:0.961903
+acer:0.948029
+eer:0.949951
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 095 
+TP:19864, TN:33119,  FP:14128,  FN:59
+accuracy:0.788790
+precision:0.584373
+recall:0.997039
+f_measure:0.736864
+sensitivity:0.997039
+specificity:0.700976
+error_rate:0.211210
+apcer:0.299024
+bpcer:0.002961
+acer:0.150993
+eer:0.057443
+hter:0.056036
+TPR@FPR=10E-3:0.817089
+TPR@FPR=5E-3:0.755604
+TPR@FPR=10E-4:0.588503
+
+============================================================
+Model 096 
+TP:19901, TN:28146,  FP:19101,  FN:22
+accuracy:0.715304
+precision:0.510256
+recall:0.998896
+f_measure:0.675469
+sensitivity:0.998896
+specificity:0.595720
+error_rate:0.284696
+apcer:0.404280
+bpcer:0.001104
+acer:0.202692
+eer:0.071465
+hter:0.067996
+TPR@FPR=10E-3:0.804792
+TPR@FPR=5E-3:0.744725
+TPR@FPR=10E-4:0.587043
+
+============================================================
+Model 097 
+TP:19879, TN:31416,  FP:15831,  FN:44
+accuracy:0.763659
+precision:0.556679
+recall:0.997791
+f_measure:0.714648
+sensitivity:0.997791
+specificity:0.664931
+error_rate:0.236341
+apcer:0.335069
+bpcer:0.002209
+acer:0.168639
+eer:0.067318
+hter:0.064409
+TPR@FPR=10E-3:0.813321
+TPR@FPR=5E-3:0.752894
+TPR@FPR=10E-4:0.581307
+
+============================================================
+Model 098 
+TP:278, TN:6451,  FP:40796,  FN:19645
+accuracy:0.100179
+precision:0.006768
+recall:0.013954
+f_measure:0.009115
+sensitivity:0.013954
+specificity:0.136538
+error_rate:0.899821
+apcer:0.863462
+bpcer:0.986046
+acer:0.924754
+eer:0.950605
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 099 
+TP:956, TN:2195,  FP:45052,  FN:18967
+accuracy:0.046911
+precision:0.020779
+recall:0.047985
+f_measure:0.029000
+sensitivity:0.047985
+specificity:0.046458
+error_rate:0.953089
+apcer:0.953542
+bpcer:0.952015
+acer:0.952779
+eer:0.952913
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 500 
+TP:19838, TN:39942,  FP:7305,  FN:85
+accuracy:0.889981
+precision:0.730870
+recall:0.995734
+f_measure:0.842986
+sensitivity:0.995734
+specificity:0.845387
+error_rate:0.110019
+apcer:0.154613
+bpcer:0.004266
+acer:0.079440
+eer:0.046732
+hter:0.040067
+TPR@FPR=10E-3:0.904333
+TPR@FPR=5E-3:0.854171
+TPR@FPR=10E-4:0.724660
+
+============================================================
+Model 1000 
+TP:19676, TN:44255,  FP:2992,  FN:247
+accuracy:0.951779
+precision:0.868008
+recall:0.987602
+f_measure:0.923951
+sensitivity:0.987602
+specificity:0.936673
+error_rate:0.048221
+apcer:0.063327
+bpcer:0.012398
+acer:0.037862
+eer:0.029406
+hter:0.029144
+TPR@FPR=10E-3:0.926979
+TPR@FPR=5E-3:0.882215
+TPR@FPR=10E-4:0.834889
+
+============================================================
+Model 1500 
+TP:55, TN:7140,  FP:40107,  FN:19868
+accuracy:0.107116
+precision:0.001369
+recall:0.002761
+f_measure:0.001831
+sensitivity:0.002761
+specificity:0.151121
+error_rate:0.892884
+apcer:0.848879
+bpcer:0.997239
+acer:0.923059
+eer:0.957643
+hter:0.499841
+TPR@FPR=10E-3:0.002180
+TPR@FPR=5E-3:0.001503
+TPR@FPR=10E-4:0.000444
+
+============================================================
+Model 2000 
+TP:48, TN:5537,  FP:41710,  FN:19875
+accuracy:0.083147
+precision:0.001149
+recall:0.002409
+f_measure:0.001556
+sensitivity:0.002409
+specificity:0.117193
+error_rate:0.916853
+apcer:0.882807
+bpcer:0.997591
+acer:0.940199
+eer:0.975818
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 2500 
+TP:19863, TN:40533,  FP:6714,  FN:60
+accuracy:0.899151
+precision:0.747376
+recall:0.996988
+f_measure:0.854323
+sensitivity:0.996988
+specificity:0.857896
+error_rate:0.100849
+apcer:0.142104
+bpcer:0.003012
+acer:0.072558
+eer:0.030818
+hter:0.030559
+TPR@FPR=10E-3:0.922746
+TPR@FPR=5E-3:0.883739
+TPR@FPR=10E-4:0.773573
+
+============================================================
+Model 3000 
+TP:19881, TN:39918,  FP:7329,  FN:42
+accuracy:0.890264
+precision:0.730650
+recall:0.997892
+f_measure:0.843613
+sensitivity:0.997892
+specificity:0.844879
+error_rate:0.109736
+apcer:0.155121
+bpcer:0.002108
+acer:0.078615
+eer:0.027614
+hter:0.027411
+TPR@FPR=10E-3:0.933223
+TPR@FPR=5E-3:0.897835
+TPR@FPR=10E-4:0.799479
+
+============================================================
+Model 3500 
+TP:19868, TN:40067,  FP:7180,  FN:55
+accuracy:0.892288
+precision:0.734546
+recall:0.997239
+f_measure:0.845969
+sensitivity:0.997239
+specificity:0.848033
+error_rate:0.107712
+apcer:0.151967
+bpcer:0.002761
+acer:0.077364
+eer:0.033944
+hter:0.033121
+TPR@FPR=10E-3:0.915571
+TPR@FPR=5E-3:0.879844
+TPR@FPR=10E-4:0.806591
+
+============================================================
+Model 4000 
+TP:36, TN:9784,  FP:37463,  FN:19887
+accuracy:0.146196
+precision:0.000960
+recall:0.001807
+f_measure:0.001254
+sensitivity:0.001807
+specificity:0.207082
+error_rate:0.853804
+apcer:0.792918
+bpcer:0.998193
+acer:0.895556
+eer:0.966024
+hter:0.500000
+TPR@FPR=10E-3:0.000021
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 4500 
+TP:19843, TN:43265,  FP:3982,  FN:80
+accuracy:0.939527
+precision:0.832865
+recall:0.995985
+f_measure:0.907150
+sensitivity:0.995985
+specificity:0.915720
+error_rate:0.060473
+apcer:0.084280
+bpcer:0.004015
+acer:0.044148
+eer:0.023904
+hter:0.023456
+TPR@FPR=10E-3:0.954748
+TPR@FPR=5E-3:0.928080
+TPR@FPR=10E-4:0.872394
+
+============================================================
+Model 5000 
+TP:16, TN:11243,  FP:36004,  FN:19907
+accuracy:0.167619
+precision:0.000444
+recall:0.000803
+f_measure:0.000572
+sensitivity:0.000803
+specificity:0.237962
+error_rate:0.832381
+apcer:0.762038
+bpcer:0.999197
+acer:0.880617
+eer:0.968183
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 5500 
+TP:19726, TN:45557,  FP:1690,  FN:197
+accuracy:0.971907
+precision:0.921087
+recall:0.990112
+f_measure:0.954353
+sensitivity:0.990112
+specificity:0.964231
+error_rate:0.028093
+apcer:0.035769
+bpcer:0.009888
+acer:0.022829
+eer:0.019299
+hter:0.019148
+TPR@FPR=10E-3:0.964273
+TPR@FPR=5E-3:0.941224
+TPR@FPR=10E-4:0.939488
+
+============================================================
+Model 6000 
+TP:92, TN:4110,  FP:43137,  FN:19831
+accuracy:0.062558
+precision:0.002128
+recall:0.004618
+f_measure:0.002914
+sensitivity:0.004618
+specificity:0.086990
+error_rate:0.937442
+apcer:0.913010
+bpcer:0.995382
+acer:0.954196
+eer:0.976544
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 6500 
+TP:99, TN:3288,  FP:43959,  FN:19824
+accuracy:0.050424
+precision:0.002247
+recall:0.004969
+f_measure:0.003095
+sensitivity:0.004969
+specificity:0.069592
+error_rate:0.949576
+apcer:0.930408
+bpcer:0.995031
+acer:0.962720
+eer:0.981572
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 7000 
+TP:62, TN:5478,  FP:41769,  FN:19861
+accuracy:0.082477
+precision:0.001482
+recall:0.003112
+f_measure:0.002008
+sensitivity:0.003112
+specificity:0.115944
+error_rate:0.917523
+apcer:0.884056
+bpcer:0.996888
+acer:0.940472
+eer:0.976462
+hter:0.500000
+TPR@FPR=10E-3:0.000677
+TPR@FPR=5E-3:0.000233
+TPR@FPR=10E-4:0.000021
+
+============================================================
+Model 7500 
+TP:54, TN:5052,  FP:42195,  FN:19869
+accuracy:0.076016
+precision:0.001278
+recall:0.002710
+f_measure:0.001737
+sensitivity:0.002710
+specificity:0.106927
+error_rate:0.923984
+apcer:0.893073
+bpcer:0.997290
+acer:0.945181
+eer:0.979598
+hter:0.500000
+TPR@FPR=10E-3:0.000042
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 8000 
+TP:19903, TN:35260,  FP:11987,  FN:20
+accuracy:0.821245
+precision:0.624114
+recall:0.998996
+f_measure:0.768263
+sensitivity:0.998996
+specificity:0.746291
+error_rate:0.178755
+apcer:0.253709
+bpcer:0.001004
+acer:0.127357
+eer:0.050969
+hter:0.040674
+TPR@FPR=10E-3:0.925392
+TPR@FPR=5E-3:0.888501
+TPR@FPR=10E-4:0.753402
+
+============================================================
+Model 8500 
+TP:19892, TN:39299,  FP:7948,  FN:31
+accuracy:0.881212
+precision:0.714511
+recall:0.998444
+f_measure:0.832946
+sensitivity:0.998444
+specificity:0.831778
+error_rate:0.118788
+apcer:0.168222
+bpcer:0.001556
+acer:0.084889
+eer:0.033528
+hter:0.030308
+TPR@FPR=10E-3:0.937499
+TPR@FPR=5E-3:0.906915
+TPR@FPR=10E-4:0.786928
+
+============================================================
+Model 9000 
+TP:19910, TN:36287,  FP:10960,  FN:13
+accuracy:0.836638
+precision:0.644963
+recall:0.999347
+f_measure:0.783966
+sensitivity:0.999347
+specificity:0.768028
+error_rate:0.163362
+apcer:0.231972
+bpcer:0.000653
+acer:0.116312
+eer:0.022745
+hter:0.022252
+TPR@FPR=10E-3:0.957585
+TPR@FPR=5E-3:0.930641
+TPR@FPR=10E-4:0.821915
+
+============================================================
+Model 9500 
+TP:54, TN:4623,  FP:42624,  FN:19869
+accuracy:0.069629
+precision:0.001265
+recall:0.002710
+f_measure:0.001725
+sensitivity:0.002710
+specificity:0.097847
+error_rate:0.930371
+apcer:0.902153
+bpcer:0.997290
+acer:0.949721
+eer:0.979378
+hter:0.500000
+TPR@FPR=10E-3:0.000127
+TPR@FPR=5E-3:0.000042
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 10000 
+TP:19890, TN:39807,  FP:7440,  FN:33
+accuracy:0.888745
+precision:0.727772
+recall:0.998344
+f_measure:0.841851
+sensitivity:0.998344
+specificity:0.842530
+error_rate:0.111255
+apcer:0.157470
+bpcer:0.001656
+acer:0.079563
+eer:0.026419
+hter:0.024974
+TPR@FPR=10E-3:0.946960
+TPR@FPR=5E-3:0.915825
+TPR@FPR=10E-4:0.815078
+
+============================================================
+Model 000 
+TP:13644, TN:31400,  FP:15847,  FN:6279
+accuracy:0.670597
+precision:0.462650
+recall:0.684837
+f_measure:0.552232
+sensitivity:0.684837
+specificity:0.664592
+error_rate:0.329403
+apcer:0.335408
+bpcer:0.315163
+acer:0.325285
+eer:0.325652
+hter:0.325120
+TPR@FPR=10E-3:0.062311
+TPR@FPR=5E-3:0.032489
+TPR@FPR=10E-4:0.009440
+
+============================================================
+Model 001 
+TP:8559, TN:8381,  FP:38866,  FN:11364
+accuracy:0.252196
+precision:0.180474
+recall:0.429604
+f_measure:0.254172
+sensitivity:0.429604
+specificity:0.177387
+error_rate:0.747804
+apcer:0.822613
+bpcer:0.570396
+acer:0.696505
+eer:0.710230
+hter:0.500000
+TPR@FPR=10E-3:0.000339
+TPR@FPR=5E-3:0.000190
+TPR@FPR=10E-4:0.000063
+
+============================================================
+Model 002 
+TP:14836, TN:34355,  FP:12892,  FN:5087
+accuracy:0.732336
+precision:0.535055
+recall:0.744667
+f_measure:0.622694
+sensitivity:0.744667
+specificity:0.727136
+error_rate:0.267664
+apcer:0.272864
+bpcer:0.255333
+acer:0.264098
+eer:0.264753
+hter:0.263590
+TPR@FPR=10E-3:0.146401
+TPR@FPR=5E-3:0.103456
+TPR@FPR=10E-4:0.034076
+
+============================================================
+Model 003 
+TP:15374, TN:37364,  FP:9883,  FN:4549
+accuracy:0.785142
+precision:0.608703
+recall:0.771671
+f_measure:0.680567
+sensitivity:0.771671
+specificity:0.790823
+error_rate:0.214858
+apcer:0.209177
+bpcer:0.228329
+acer:0.218753
+eer:0.217431
+hter:0.215127
+TPR@FPR=10E-3:0.277372
+TPR@FPR=5E-3:0.212246
+TPR@FPR=10E-4:0.101128
+
+============================================================
+Model 004 
+TP:14155, TN:43546,  FP:3701,  FN:5768
+accuracy:0.859029
+precision:0.792731
+recall:0.710485
+f_measure:0.749358
+sensitivity:0.710485
+specificity:0.921667
+error_rate:0.140971
+apcer:0.078333
+bpcer:0.289515
+acer:0.183924
+eer:0.159462
+hter:0.159375
+TPR@FPR=10E-3:0.308612
+TPR@FPR=5E-3:0.209812
+TPR@FPR=10E-4:0.082481
+
+============================================================
+Model 005 
+TP:18038, TN:33736,  FP:13511,  FN:1885
+accuracy:0.770791
+precision:0.571746
+recall:0.905386
+f_measure:0.700886
+sensitivity:0.905386
+specificity:0.714035
+error_rate:0.229209
+apcer:0.285965
+bpcer:0.094614
+acer:0.190290
+eer:0.168086
+hter:0.167733
+TPR@FPR=10E-3:0.308591
+TPR@FPR=5E-3:0.212860
+TPR@FPR=10E-4:0.082058
+
+============================================================
+Model 006 
+TP:16079, TN:39211,  FP:8036,  FN:3844
+accuracy:0.823135
+precision:0.666763
+recall:0.807057
+f_measure:0.730233
+sensitivity:0.807057
+specificity:0.829915
+error_rate:0.176865
+apcer:0.170085
+bpcer:0.192943
+acer:0.181514
+eer:0.181471
+hter:0.180906
+TPR@FPR=10E-3:0.248249
+TPR@FPR=5E-3:0.173154
+TPR@FPR=10E-4:0.062798
+
+============================================================
+Model 007 
+TP:16099, TN:41903,  FP:5344,  FN:3824
+accuracy:0.863510
+precision:0.750781
+recall:0.808061
+f_measure:0.778369
+sensitivity:0.808061
+specificity:0.886892
+error_rate:0.136490
+apcer:0.113108
+bpcer:0.191939
+acer:0.152523
+eer:0.149999
+hter:0.149101
+TPR@FPR=10E-3:0.321290
+TPR@FPR=5E-3:0.209368
+TPR@FPR=10E-4:0.069740
+
+============================================================
+Model 008 
+TP:14608, TN:43806,  FP:3441,  FN:5315
+accuracy:0.869644
+precision:0.809352
+recall:0.733223
+f_measure:0.769409
+sensitivity:0.733223
+specificity:0.927170
+error_rate:0.130356
+apcer:0.072830
+bpcer:0.266777
+acer:0.169804
+eer:0.146706
+hter:0.145786
+TPR@FPR=10E-3:0.364870
+TPR@FPR=5E-3:0.256037
+TPR@FPR=10E-4:0.083942
+
+============================================================
+Model 009 
+TP:407, TN:21664,  FP:25583,  FN:19516
+accuracy:0.328584
+precision:0.015660
+recall:0.020429
+f_measure:0.017729
+sensitivity:0.020429
+specificity:0.458526
+error_rate:0.671416
+apcer:0.541474
+bpcer:0.979571
+acer:0.760522
+eer:0.856946
+hter:0.500000
+TPR@FPR=10E-3:0.000169
+TPR@FPR=5E-3:0.000063
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 010 
+TP:19583, TN:26400,  FP:20847,  FN:340
+accuracy:0.684576
+precision:0.484368
+recall:0.982934
+f_measure:0.648949
+sensitivity:0.982934
+specificity:0.558766
+error_rate:0.315424
+apcer:0.441234
+bpcer:0.017066
+acer:0.229150
+eer:0.133729
+hter:0.132618
+TPR@FPR=10E-3:0.470210
+TPR@FPR=5E-3:0.349440
+TPR@FPR=10E-4:0.129850
+
+============================================================
+Model 011 
+TP:18935, TN:36581,  FP:10666,  FN:988
+accuracy:0.826500
+precision:0.639674
+recall:0.950409
+f_measure:0.764680
+sensitivity:0.950409
+specificity:0.774250
+error_rate:0.173500
+apcer:0.225750
+bpcer:0.049591
+acer:0.137670
+eer:0.119999
+hter:0.118786
+TPR@FPR=10E-3:0.503418
+TPR@FPR=5E-3:0.357462
+TPR@FPR=10E-4:0.113954
+
+============================================================
+Model 012 
+TP:18678, TN:38726,  FP:8521,  FN:1245
+accuracy:0.854608
+precision:0.686716
+recall:0.937509
+f_measure:0.792751
+sensitivity:0.937509
+specificity:0.819650
+error_rate:0.145392
+apcer:0.180350
+bpcer:0.062491
+acer:0.121420
+eer:0.112030
+hter:0.111386
+TPR@FPR=10E-3:0.509916
+TPR@FPR=5E-3:0.403052
+TPR@FPR=10E-4:0.165598
+
+============================================================
+Model 013 
+TP:18027, TN:42278,  FP:4969,  FN:1896
+accuracy:0.897797
+precision:0.783919
+recall:0.904834
+f_measure:0.840048
+sensitivity:0.904834
+specificity:0.894829
+error_rate:0.102203
+apcer:0.105171
+bpcer:0.095166
+acer:0.100169
+eer:0.100238
+hter:0.099966
+TPR@FPR=10E-3:0.532986
+TPR@FPR=5E-3:0.390670
+TPR@FPR=10E-4:0.149237
+
+============================================================
+Model 014 
+TP:524, TN:12858,  FP:34389,  FN:19399
+accuracy:0.199226
+precision:0.015009
+recall:0.026301
+f_measure:0.019112
+sensitivity:0.026301
+specificity:0.272144
+error_rate:0.800774
+apcer:0.727856
+bpcer:0.973699
+acer:0.850777
+eer:0.894585
+hter:0.500000
+TPR@FPR=10E-3:0.000127
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 015 
+TP:1252, TN:6457,  FP:40790,  FN:18671
+accuracy:0.114768
+precision:0.029780
+recall:0.062842
+f_measure:0.040410
+sensitivity:0.062842
+specificity:0.136665
+error_rate:0.885232
+apcer:0.863335
+bpcer:0.937158
+acer:0.900247
+eer:0.907006
+hter:0.500000
+TPR@FPR=10E-3:0.000148
+TPR@FPR=5E-3:0.000148
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 016 
+TP:2218, TN:3344,  FP:43903,  FN:17705
+accuracy:0.082805
+precision:0.048091
+recall:0.111329
+f_measure:0.067167
+sensitivity:0.111329
+specificity:0.070777
+error_rate:0.917195
+apcer:0.929223
+bpcer:0.888671
+acer:0.908947
+eer:0.910762
+hter:0.500000
+TPR@FPR=10E-3:0.000063
+TPR@FPR=5E-3:0.000063
+TPR@FPR=10E-4:0.000063
+
+============================================================
+Model 017 
+TP:2485, TN:2905,  FP:44342,  FN:17438
+accuracy:0.080244
+precision:0.053068
+recall:0.124730
+f_measure:0.074457
+sensitivity:0.124730
+specificity:0.061485
+error_rate:0.919756
+apcer:0.938515
+bpcer:0.875270
+acer:0.906892
+eer:0.912405
+hter:0.500000
+TPR@FPR=10E-3:0.000741
+TPR@FPR=5E-3:0.000741
+TPR@FPR=10E-4:0.000741
+
+============================================================
+Model 018 
+TP:1300, TN:5924,  FP:41323,  FN:18623
+accuracy:0.107548
+precision:0.030500
+recall:0.065251
+f_measure:0.041569
+sensitivity:0.065251
+specificity:0.125384
+error_rate:0.892452
+apcer:0.874616
+bpcer:0.934749
+acer:0.904683
+eer:0.910314
+hter:0.500000
+TPR@FPR=10E-3:0.001333
+TPR@FPR=5E-3:0.001333
+TPR@FPR=10E-4:0.001333
+
+============================================================
+Model 019 
+TP:19694, TN:29597,  FP:17650,  FN:229
+accuracy:0.733825
+precision:0.527367
+recall:0.988506
+f_measure:0.687796
+sensitivity:0.988506
+specificity:0.626431
+error_rate:0.266175
+apcer:0.373569
+bpcer:0.011494
+acer:0.192531
+eer:0.113317
+hter:0.108726
+TPR@FPR=10E-3:0.606345
+TPR@FPR=5E-3:0.504540
+TPR@FPR=10E-4:0.269266
+
+============================================================
+Model 020 
+TP:315, TN:15158,  FP:32089,  FN:19608
+accuracy:0.230356
+precision:0.009721
+recall:0.015811
+f_measure:0.012040
+sensitivity:0.015811
+specificity:0.320825
+error_rate:0.769644
+apcer:0.679175
+bpcer:0.984189
+acer:0.831682
+eer:0.879619
+hter:0.500000
+TPR@FPR=10E-3:0.091942
+TPR@FPR=5E-3:0.091942
+TPR@FPR=10E-4:0.091942
+
+============================================================
+Model 021 
+TP:1021, TN:6635,  FP:40612,  FN:18902
+accuracy:0.113979
+precision:0.024524
+recall:0.051247
+f_measure:0.033173
+sensitivity:0.051247
+specificity:0.140432
+error_rate:0.886021
+apcer:0.859568
+bpcer:0.948753
+acer:0.904160
+eer:0.913116
+hter:0.500000
+TPR@FPR=10E-3:0.000402
+TPR@FPR=5E-3:0.000190
+TPR@FPR=10E-4:0.000042
+
+============================================================
+Model 022 
+TP:3114, TN:1857,  FP:45390,  FN:16809
+accuracy:0.074006
+precision:0.064201
+recall:0.156302
+f_measure:0.091017
+sensitivity:0.156302
+specificity:0.039304
+error_rate:0.925994
+apcer:0.960696
+bpcer:0.843698
+acer:0.902197
+eer:0.920399
+hter:0.500000
+TPR@FPR=10E-3:0.017588
+TPR@FPR=5E-3:0.017588
+TPR@FPR=10E-4:0.017588
+
+============================================================
+Model 023 
+TP:3015, TN:1724,  FP:45523,  FN:16908
+accuracy:0.070552
+precision:0.062116
+recall:0.151333
+f_measure:0.088079
+sensitivity:0.151333
+specificity:0.036489
+error_rate:0.929448
+apcer:0.963511
+bpcer:0.848667
+acer:0.906089
+eer:0.923713
+hter:0.500000
+TPR@FPR=10E-3:0.010667
+TPR@FPR=5E-3:0.010667
+TPR@FPR=10E-4:0.010667
+
+============================================================
+Model 024 
+TP:18197, TN:44092,  FP:3155,  FN:1726
+accuracy:0.927334
+precision:0.852239
+recall:0.913366
+f_measure:0.881744
+sensitivity:0.913366
+specificity:0.933223
+error_rate:0.072666
+apcer:0.066777
+bpcer:0.086634
+acer:0.076705
+eer:0.075917
+hter:0.075622
+TPR@FPR=10E-3:0.848033
+TPR@FPR=5E-3:0.848033
+TPR@FPR=10E-4:0.848033
+
+============================================================
+Model 025 
+TP:19726, TN:31525,  FP:15722,  FN:197
+accuracy:0.763004
+precision:0.556477
+recall:0.990112
+f_measure:0.712503
+sensitivity:0.990112
+specificity:0.667238
+error_rate:0.236996
+apcer:0.332762
+bpcer:0.009888
+acer:0.171325
+eer:0.091685
+hter:0.088551
+TPR@FPR=10E-3:0.668445
+TPR@FPR=5E-3:0.573560
+TPR@FPR=10E-4:0.310348
+
+============================================================
+Model 026 
+TP:19792, TN:28395,  FP:18852,  FN:131
+accuracy:0.717389
+precision:0.512162
+recall:0.993425
+f_measure:0.675875
+sensitivity:0.993425
+specificity:0.600991
+error_rate:0.282611
+apcer:0.399009
+bpcer:0.006575
+acer:0.202792
+eer:0.105270
+hter:0.101690
+TPR@FPR=10E-3:0.660127
+TPR@FPR=5E-3:0.575042
+TPR@FPR=10E-4:0.337249
+
+============================================================
+Model 027 
+TP:19608, TN:34602,  FP:12645,  FN:315
+accuracy:0.807057
+precision:0.607943
+recall:0.984189
+f_measure:0.751610
+sensitivity:0.984189
+specificity:0.732364
+error_rate:0.192943
+apcer:0.267636
+bpcer:0.015811
+acer:0.141723
+eer:0.095060
+hter:0.093408
+TPR@FPR=10E-3:0.662857
+TPR@FPR=5E-3:0.576545
+TPR@FPR=10E-4:0.337164
+
+============================================================
+Model 028 
+TP:554, TN:8484,  FP:38763,  FN:19369
+accuracy:0.134554
+precision:0.014091
+recall:0.027807
+f_measure:0.018704
+sensitivity:0.027807
+specificity:0.179567
+error_rate:0.865446
+apcer:0.820433
+bpcer:0.972193
+acer:0.896313
+eer:0.917455
+hter:0.500000
+TPR@FPR=10E-3:0.104155
+TPR@FPR=5E-3:0.104155
+TPR@FPR=10E-4:0.104155
+
+============================================================
+Model 029 
+TP:18989, TN:41515,  FP:5732,  FN:934
+accuracy:0.900759
+precision:0.768132
+recall:0.953120
+f_measure:0.850685
+sensitivity:0.953120
+specificity:0.878680
+error_rate:0.099241
+apcer:0.121320
+bpcer:0.046880
+acer:0.084100
+eer:0.077755
+hter:0.077560
+TPR@FPR=10E-3:0.653925
+TPR@FPR=5E-3:0.556162
+TPR@FPR=10E-4:0.318623
+
+============================================================
+Model 030 
+TP:18545, TN:43001,  FP:4246,  FN:1378
+accuracy:0.916272
+precision:0.813698
+recall:0.930834
+f_measure:0.868334
+sensitivity:0.930834
+specificity:0.910132
+error_rate:0.083728
+apcer:0.089868
+bpcer:0.069166
+acer:0.079517
+eer:0.078652
+hter:0.078047
+TPR@FPR=10E-3:0.640379
+TPR@FPR=5E-3:0.545093
+TPR@FPR=10E-4:0.305734
+
+============================================================
+Model 031 
+TP:1179, TN:4776,  FP:42471,  FN:18744
+accuracy:0.088656
+precision:0.027010
+recall:0.059178
+f_measure:0.037091
+sensitivity:0.059178
+specificity:0.101086
+error_rate:0.911344
+apcer:0.898914
+bpcer:0.940822
+acer:0.919868
+eer:0.922529
+hter:0.500000
+TPR@FPR=10E-3:0.048638
+TPR@FPR=5E-3:0.048638
+TPR@FPR=10E-4:0.048638
+
+============================================================
+Model 032 
+TP:19719, TN:31780,  FP:15467,  FN:204
+accuracy:0.766696
+precision:0.560422
+recall:0.989761
+f_measure:0.715636
+sensitivity:0.989761
+specificity:0.672635
+error_rate:0.233304
+apcer:0.327365
+bpcer:0.010239
+acer:0.168802
+eer:0.091226
+hter:0.089467
+TPR@FPR=10E-3:0.667302
+TPR@FPR=5E-3:0.585032
+TPR@FPR=10E-4:0.374458
+
+============================================================
+Model 033 
+TP:152, TN:17516,  FP:29731,  FN:19771
+accuracy:0.263034
+precision:0.005087
+recall:0.007629
+f_measure:0.006104
+sensitivity:0.007629
+specificity:0.370733
+error_rate:0.736966
+apcer:0.629267
+bpcer:0.992371
+acer:0.810819
+eer:0.853063
+hter:0.500000
+TPR@FPR=10E-3:0.276356
+TPR@FPR=5E-3:0.276356
+TPR@FPR=10E-4:0.276356
+
+============================================================
+Model 034 
+TP:19800, TN:29190,  FP:18057,  FN:123
+accuracy:0.729343
+precision:0.523021
+recall:0.993826
+f_measure:0.685358
+sensitivity:0.993826
+specificity:0.617817
+error_rate:0.270657
+apcer:0.382183
+bpcer:0.006174
+acer:0.194178
+eer:0.101422
+hter:0.098116
+TPR@FPR=10E-3:0.672762
+TPR@FPR=5E-3:0.598980
+TPR@FPR=10E-4:0.392215
+
+============================================================
+Model 035 
+TP:19481, TN:38899,  FP:8348,  FN:442
+accuracy:0.869138
+precision:0.700025
+recall:0.977815
+f_measure:0.815924
+sensitivity:0.977815
+specificity:0.823312
+error_rate:0.130862
+apcer:0.176688
+bpcer:0.022185
+acer:0.099437
+eer:0.079281
+hter:0.078546
+TPR@FPR=10E-3:0.706034
+TPR@FPR=5E-3:0.601287
+TPR@FPR=10E-4:0.391538
+
+============================================================
+Model 036 
+TP:19041, TN:42915,  FP:4332,  FN:882
+accuracy:0.922376
+precision:0.814658
+recall:0.955730
+f_measure:0.879573
+sensitivity:0.955730
+specificity:0.908312
+error_rate:0.077624
+apcer:0.091688
+bpcer:0.044270
+acer:0.067979
+eer:0.063773
+hter:0.063757
+TPR@FPR=10E-3:0.719390
+TPR@FPR=5E-3:0.587339
+TPR@FPR=10E-4:0.382776
+
+============================================================
+Model 037 
+TP:18537, TN:44680,  FP:2567,  FN:1386
+accuracy:0.941149
+precision:0.878364
+recall:0.930432
+f_measure:0.903649
+sensitivity:0.930432
+specificity:0.945669
+error_rate:0.058851
+apcer:0.054331
+bpcer:0.069568
+acer:0.061950
+eer:0.061842
+hter:0.061371
+TPR@FPR=10E-3:0.718776
+TPR@FPR=5E-3:0.601245
+TPR@FPR=10E-4:0.374034
+
+============================================================
+Model 038 
+TP:19225, TN:42510,  FP:4737,  FN:698
+accuracy:0.919086
+precision:0.802312
+recall:0.964965
+f_measure:0.876154
+sensitivity:0.964965
+specificity:0.899740
+error_rate:0.080914
+apcer:0.100260
+bpcer:0.035035
+acer:0.067648
+eer:0.060992
+hter:0.059996
+TPR@FPR=10E-3:0.746227
+TPR@FPR=5E-3:0.599361
+TPR@FPR=10E-4:0.353356
+
+============================================================
+Model 039 
+TP:19507, TN:40118,  FP:7129,  FN:416
+accuracy:0.887673
+precision:0.732355
+recall:0.979120
+f_measure:0.837948
+sensitivity:0.979120
+specificity:0.849112
+error_rate:0.112327
+apcer:0.150888
+bpcer:0.020880
+acer:0.085884
+eer:0.060636
+hter:0.060232
+TPR@FPR=10E-3:0.753826
+TPR@FPR=5E-3:0.647766
+TPR@FPR=10E-4:0.383940
+
+============================================================
+Model 040 
+TP:217, TN:10570,  FP:36677,  FN:19706
+accuracy:0.160593
+precision:0.005882
+recall:0.010892
+f_measure:0.007639
+sensitivity:0.010892
+specificity:0.223718
+error_rate:0.839407
+apcer:0.776282
+bpcer:0.989108
+acer:0.882695
+eer:0.925902
+hter:0.500000
+TPR@FPR=10E-3:0.119034
+TPR@FPR=5E-3:0.119034
+TPR@FPR=10E-4:0.119034
+
+============================================================
+Model 041 
+TP:137, TN:13975,  FP:33272,  FN:19786
+accuracy:0.210094
+precision:0.004101
+recall:0.006876
+f_measure:0.005138
+sensitivity:0.006876
+specificity:0.295786
+error_rate:0.789906
+apcer:0.704214
+bpcer:0.993124
+acer:0.848669
+eer:0.904369
+hter:0.500000
+TPR@FPR=10E-3:0.173895
+TPR@FPR=5E-3:0.173895
+TPR@FPR=10E-4:0.173895
+
+============================================================
+Model 042 
+TP:19679, TN:37440,  FP:9807,  FN:244
+accuracy:0.850365
+precision:0.667401
+recall:0.987753
+f_measure:0.796576
+sensitivity:0.987753
+specificity:0.792431
+error_rate:0.149635
+apcer:0.207569
+bpcer:0.012247
+acer:0.109908
+eer:0.064459
+hter:0.063979
+TPR@FPR=10E-3:0.760789
+TPR@FPR=5E-3:0.663323
+TPR@FPR=10E-4:0.389210
+
+============================================================
+Model 043 
+TP:318, TN:8326,  FP:38921,  FN:19605
+accuracy:0.128688
+precision:0.008104
+recall:0.015961
+f_measure:0.010750
+sensitivity:0.015961
+specificity:0.176223
+error_rate:0.871312
+apcer:0.823777
+bpcer:0.984039
+acer:0.903908
+eer:0.932504
+hter:0.500000
+TPR@FPR=10E-3:0.098652
+TPR@FPR=5E-3:0.098652
+TPR@FPR=10E-4:0.098652
+
+============================================================
+Model 044 
+TP:18946, TN:43681,  FP:3566,  FN:977
+accuracy:0.932366
+precision:0.841596
+recall:0.950961
+f_measure:0.892942
+sensitivity:0.950961
+specificity:0.924524
+error_rate:0.067634
+apcer:0.075476
+bpcer:0.049039
+acer:0.062257
+eer:0.061703
+hter:0.061437
+TPR@FPR=10E-3:0.736512
+TPR@FPR=5E-3:0.609330
+TPR@FPR=10E-4:0.376236
+
+============================================================
+Model 045 
+TP:18825, TN:44015,  FP:3232,  FN:1098
+accuracy:0.935537
+precision:0.853471
+recall:0.944888
+f_measure:0.896856
+sensitivity:0.944888
+specificity:0.931594
+error_rate:0.064463
+apcer:0.068406
+bpcer:0.055112
+acer:0.061759
+eer:0.061568
+hter:0.061341
+TPR@FPR=10E-3:0.730925
+TPR@FPR=5E-3:0.602451
+TPR@FPR=10E-4:0.363748
+
+============================================================
+Model 046 
+TP:512, TN:5883,  FP:41364,  FN:19411
+accuracy:0.095206
+precision:0.012227
+recall:0.025699
+f_measure:0.016570
+sensitivity:0.025699
+specificity:0.124516
+error_rate:0.904794
+apcer:0.875484
+bpcer:0.974301
+acer:0.924893
+eer:0.938185
+hter:0.500000
+TPR@FPR=10E-3:0.057295
+TPR@FPR=5E-3:0.057295
+TPR@FPR=10E-4:0.057295
+
+============================================================
+Model 047 
+TP:19533, TN:39904,  FP:7343,  FN:390
+accuracy:0.884874
+precision:0.726782
+recall:0.980425
+f_measure:0.834761
+sensitivity:0.980425
+specificity:0.844583
+error_rate:0.115126
+apcer:0.155417
+bpcer:0.019575
+acer:0.087496
+eer:0.062702
+hter:0.062527
+TPR@FPR=10E-3:0.751138
+TPR@FPR=5E-3:0.646157
+TPR@FPR=10E-4:0.379939
+
+============================================================
+Model 048 
+TP:273, TN:9841,  FP:37406,  FN:19650
+accuracy:0.150573
+precision:0.007245
+recall:0.013703
+f_measure:0.009479
+sensitivity:0.013703
+specificity:0.208288
+error_rate:0.849427
+apcer:0.791712
+bpcer:0.986297
+acer:0.889004
+eer:0.919681
+hter:0.500000
+TPR@FPR=10E-3:0.134739
+TPR@FPR=5E-3:0.134739
+TPR@FPR=10E-4:0.134739
+
+============================================================
+Model 049 
+TP:19487, TN:39917,  FP:7330,  FN:436
+accuracy:0.884383
+precision:0.726666
+recall:0.978116
+f_measure:0.833847
+sensitivity:0.978116
+specificity:0.844858
+error_rate:0.115617
+apcer:0.155142
+bpcer:0.021884
+acer:0.088513
+eer:0.067354
+hter:0.066450
+TPR@FPR=10E-3:0.750926
+TPR@FPR=5E-3:0.645565
+TPR@FPR=10E-4:0.389104
+
+============================================================
+Model 050 
+TP:229, TN:11422,  FP:35825,  FN:19694
+accuracy:0.173455
+precision:0.006352
+recall:0.011494
+f_measure:0.008182
+sensitivity:0.011494
+specificity:0.241751
+error_rate:0.826545
+apcer:0.758249
+bpcer:0.988506
+acer:0.873377
+eer:0.908805
+hter:0.500000
+TPR@FPR=10E-3:0.160455
+TPR@FPR=5E-3:0.160455
+TPR@FPR=10E-4:0.160455
+
+============================================================
+Model 051 
+TP:329, TN:8896,  FP:38351,  FN:19594
+accuracy:0.137338
+precision:0.008506
+recall:0.016514
+f_measure:0.011228
+sensitivity:0.016514
+specificity:0.188287
+error_rate:0.862662
+apcer:0.811713
+bpcer:0.983486
+acer:0.897600
+eer:0.924021
+hter:0.500000
+TPR@FPR=10E-3:0.120135
+TPR@FPR=5E-3:0.120135
+TPR@FPR=10E-4:0.120135
+
+============================================================
+Model 052 
+TP:418, TN:7554,  FP:39693,  FN:19505
+accuracy:0.118684
+precision:0.010421
+recall:0.020981
+f_measure:0.013925
+sensitivity:0.020981
+specificity:0.159883
+error_rate:0.881316
+apcer:0.840117
+bpcer:0.979019
+acer:0.909568
+eer:0.929319
+hter:0.500000
+TPR@FPR=10E-3:0.104218
+TPR@FPR=5E-3:0.104218
+TPR@FPR=10E-4:0.104218
+
+============================================================
+Model 053 
+TP:443, TN:7096,  FP:40151,  FN:19480
+accuracy:0.112238
+precision:0.010913
+recall:0.022236
+f_measure:0.014641
+sensitivity:0.022236
+specificity:0.150189
+error_rate:0.887762
+apcer:0.849811
+bpcer:0.977764
+acer:0.913787
+eer:0.930706
+hter:0.500000
+TPR@FPR=10E-3:0.101446
+TPR@FPR=5E-3:0.101446
+TPR@FPR=10E-4:0.101446
+
+============================================================
+Model 054 
+TP:478, TN:6597,  FP:40650,  FN:19445
+accuracy:0.105330
+precision:0.011622
+recall:0.023992
+f_measure:0.015659
+sensitivity:0.023992
+specificity:0.139628
+error_rate:0.894670
+apcer:0.860372
+bpcer:0.976008
+acer:0.918190
+eer:0.935024
+hter:0.500000
+TPR@FPR=10E-3:0.084577
+TPR@FPR=5E-3:0.084577
+TPR@FPR=10E-4:0.084577
+
+============================================================
+Model 055 
+TP:19189, TN:42879,  FP:4368,  FN:734
+accuracy:0.924043
+precision:0.814577
+recall:0.963158
+f_measure:0.882659
+sensitivity:0.963158
+specificity:0.907550
+error_rate:0.075957
+apcer:0.092450
+bpcer:0.036842
+acer:0.064646
+eer:0.059203
+hter:0.059067
+TPR@FPR=10E-3:0.764514
+TPR@FPR=5E-3:0.657079
+TPR@FPR=10E-4:0.380109
+
+============================================================
+Model 056 
+TP:19234, TN:42769,  FP:4478,  FN:689
+accuracy:0.923076
+precision:0.811150
+recall:0.965417
+f_measure:0.881586
+sensitivity:0.965417
+specificity:0.905221
+error_rate:0.076924
+apcer:0.094779
+bpcer:0.034583
+acer:0.064681
+eer:0.058204
+hter:0.057845
+TPR@FPR=10E-3:0.771224
+TPR@FPR=5E-3:0.673164
+TPR@FPR=10E-4:0.394480
+
+============================================================
+Model 057 
+TP:581, TN:5278,  FP:41969,  FN:19342
+accuracy:0.087226
+precision:0.013655
+recall:0.029162
+f_measure:0.018600
+sensitivity:0.029162
+specificity:0.111711
+error_rate:0.912774
+apcer:0.888289
+bpcer:0.970838
+acer:0.929563
+eer:0.941679
+hter:0.500000
+TPR@FPR=10E-3:0.060575
+TPR@FPR=5E-3:0.060575
+TPR@FPR=10E-4:0.060575
+
+============================================================
+Model 058 
+TP:19363, TN:41863,  FP:5384,  FN:560
+accuracy:0.911508
+precision:0.782438
+recall:0.971892
+f_measure:0.866935
+sensitivity:0.971892
+specificity:0.886046
+error_rate:0.088492
+apcer:0.113954
+bpcer:0.028108
+acer:0.071031
+eer:0.057606
+hter:0.057441
+TPR@FPR=10E-3:0.790442
+TPR@FPR=5E-3:0.698796
+TPR@FPR=10E-4:0.422334
+
+============================================================
+Model 059 
+TP:413, TN:6692,  FP:40555,  FN:19510
+accuracy:0.105776
+precision:0.010081
+recall:0.020730
+f_measure:0.013565
+sensitivity:0.020730
+specificity:0.141639
+error_rate:0.894224
+apcer:0.858361
+bpcer:0.979270
+acer:0.918816
+eer:0.934176
+hter:0.500000
+TPR@FPR=10E-3:0.098821
+TPR@FPR=5E-3:0.098821
+TPR@FPR=10E-4:0.098821
+
+============================================================
+Model 060 
+TP:442, TN:6310,  FP:40937,  FN:19481
+accuracy:0.100521
+precision:0.010682
+recall:0.022185
+f_measure:0.014420
+sensitivity:0.022185
+specificity:0.133553
+error_rate:0.899479
+apcer:0.866447
+bpcer:0.977815
+acer:0.922131
+eer:0.935598
+hter:0.500000
+TPR@FPR=10E-3:0.094271
+TPR@FPR=5E-3:0.094271
+TPR@FPR=10E-4:0.094271
+
+============================================================
+Model 061 
+TP:19153, TN:43395,  FP:3852,  FN:770
+accuracy:0.931190
+precision:0.832558
+recall:0.961351
+f_measure:0.892331
+sensitivity:0.961351
+specificity:0.918471
+error_rate:0.068810
+apcer:0.081529
+bpcer:0.038649
+acer:0.060089
+eer:0.056618
+hter:0.056266
+TPR@FPR=10E-3:0.796093
+TPR@FPR=5E-3:0.704870
+TPR@FPR=10E-4:0.425720
+
+============================================================
+Model 062 
+TP:19525, TN:40787,  FP:6460,  FN:398
+accuracy:0.897901
+precision:0.751395
+recall:0.980023
+f_measure:0.850614
+sensitivity:0.980023
+specificity:0.863272
+error_rate:0.102099
+apcer:0.136728
+bpcer:0.019977
+acer:0.078353
+eer:0.057514
+hter:0.057257
+TPR@FPR=10E-3:0.793638
+TPR@FPR=5E-3:0.711389
+TPR@FPR=10E-4:0.458590
+
+============================================================
+Model 063 
+TP:577, TN:5037,  FP:42210,  FN:19346
+accuracy:0.083579
+precision:0.013485
+recall:0.028962
+f_measure:0.018402
+sensitivity:0.028962
+specificity:0.106610
+error_rate:0.916421
+apcer:0.893390
+bpcer:0.971038
+acer:0.932214
+eer:0.941443
+hter:0.500000
+TPR@FPR=10E-3:0.065464
+TPR@FPR=5E-3:0.065464
+TPR@FPR=10E-4:0.065464
+
+============================================================
+Model 064 
+TP:19058, TN:43591,  FP:3656,  FN:865
+accuracy:0.932693
+precision:0.839042
+recall:0.956583
+f_measure:0.893965
+sensitivity:0.956583
+specificity:0.922619
+error_rate:0.067307
+apcer:0.077381
+bpcer:0.043417
+acer:0.060399
+eer:0.058421
+hter:0.058166
+TPR@FPR=10E-3:0.803437
+TPR@FPR=5E-3:0.803437
+TPR@FPR=10E-4:0.788389
+
+============================================================
+Model 065 
+TP:340, TN:7847,  FP:39400,  FN:19583
+accuracy:0.121885
+precision:0.008556
+recall:0.017066
+f_measure:0.011397
+sensitivity:0.017066
+specificity:0.166085
+error_rate:0.878115
+apcer:0.833915
+bpcer:0.982934
+acer:0.908425
+eer:0.924462
+hter:0.500000
+TPR@FPR=10E-3:0.124876
+TPR@FPR=5E-3:0.124876
+TPR@FPR=10E-4:0.124876
+
+============================================================
+Model 066 
+TP:196, TN:11645,  FP:35602,  FN:19727
+accuracy:0.176284
+precision:0.005475
+recall:0.009838
+f_measure:0.007035
+sensitivity:0.009838
+specificity:0.246471
+error_rate:0.823716
+apcer:0.753529
+bpcer:0.990162
+acer:0.871846
+eer:0.897181
+hter:0.500000
+TPR@FPR=10E-3:0.189726
+TPR@FPR=5E-3:0.189726
+TPR@FPR=10E-4:0.189726
+
+============================================================
+Model 067 
+TP:126, TN:14732,  FP:32515,  FN:19797
+accuracy:0.221200
+precision:0.003860
+recall:0.006324
+f_measure:0.004794
+sensitivity:0.006324
+specificity:0.311808
+error_rate:0.778800
+apcer:0.688192
+bpcer:0.993676
+acer:0.840934
+eer:0.879421
+hter:0.500000
+TPR@FPR=10E-3:0.228861
+TPR@FPR=5E-3:0.228861
+TPR@FPR=10E-4:0.228861
+
+============================================================
+Model 068 
+TP:185, TN:11779,  FP:35468,  FN:19738
+accuracy:0.178115
+precision:0.005189
+recall:0.009286
+f_measure:0.006658
+sensitivity:0.009286
+specificity:0.249307
+error_rate:0.821885
+apcer:0.750693
+bpcer:0.990714
+acer:0.870704
+eer:0.899731
+hter:0.500000
+TPR@FPR=10E-3:0.183673
+TPR@FPR=5E-3:0.183673
+TPR@FPR=10E-4:0.183673
+
+============================================================
+Model 069 
+TP:462, TN:6329,  FP:40918,  FN:19461
+accuracy:0.101102
+precision:0.011165
+recall:0.023189
+f_measure:0.015073
+sensitivity:0.023189
+specificity:0.133956
+error_rate:0.898898
+apcer:0.866044
+bpcer:0.976811
+acer:0.921428
+eer:0.938481
+hter:0.500000
+TPR@FPR=10E-3:0.038267
+TPR@FPR=5E-3:0.038267
+TPR@FPR=10E-4:0.038267
+
+============================================================
+Model 070 
+TP:702, TN:4216,  FP:43031,  FN:19221
+accuracy:0.073217
+precision:0.016052
+recall:0.035236
+f_measure:0.022056
+sensitivity:0.035236
+specificity:0.089233
+error_rate:0.926783
+apcer:0.910767
+bpcer:0.964764
+acer:0.937766
+eer:0.942304
+hter:0.500000
+TPR@FPR=10E-3:0.060279
+TPR@FPR=5E-3:0.060279
+TPR@FPR=10E-4:0.060279
+
+============================================================
+Model 071 
+TP:18289, TN:45472,  FP:1775,  FN:1634
+accuracy:0.949248
+precision:0.911533
+recall:0.917984
+f_measure:0.914747
+sensitivity:0.917984
+specificity:0.962431
+error_rate:0.050752
+apcer:0.037569
+bpcer:0.082016
+acer:0.059792
+eer:0.055871
+hter:0.055584
+TPR@FPR=10E-3:0.870320
+TPR@FPR=5E-3:0.860182
+TPR@FPR=10E-4:0.860182
+
+============================================================
+Model 072 
+TP:19386, TN:42095,  FP:5152,  FN:537
+accuracy:0.915304
+precision:0.790040
+recall:0.973046
+f_measure:0.872045
+sensitivity:0.973046
+specificity:0.890956
+error_rate:0.084696
+apcer:0.109044
+bpcer:0.026954
+acer:0.067999
+eer:0.056721
+hter:0.056595
+TPR@FPR=10E-3:0.806993
+TPR@FPR=5E-3:0.713082
+TPR@FPR=10E-4:0.483713
+
+============================================================
+Model 073 
+TP:19595, TN:40078,  FP:7169,  FN:328
+accuracy:0.888388
+precision:0.732140
+recall:0.983537
+f_measure:0.839420
+sensitivity:0.983537
+specificity:0.848265
+error_rate:0.111612
+apcer:0.151735
+bpcer:0.016463
+acer:0.084099
+eer:0.058684
+hter:0.058513
+TPR@FPR=10E-3:0.794992
+TPR@FPR=5E-3:0.721506
+TPR@FPR=10E-4:0.506720
+
+============================================================
+Model 074 
+TP:279, TN:7979,  FP:39268,  FN:19644
+accuracy:0.122942
+precision:0.007055
+recall:0.014004
+f_measure:0.009383
+sensitivity:0.014004
+specificity:0.168878
+error_rate:0.877058
+apcer:0.831122
+bpcer:0.985996
+acer:0.908559
+eer:0.927648
+hter:0.500000
+TPR@FPR=10E-3:0.119457
+TPR@FPR=5E-3:0.119457
+TPR@FPR=10E-4:0.119457
+
+============================================================
+Model 075 
+TP:19575, TN:40120,  FP:7127,  FN:348
+accuracy:0.888715
+precision:0.733091
+recall:0.982533
+f_measure:0.839678
+sensitivity:0.982533
+specificity:0.849154
+error_rate:0.111285
+apcer:0.150846
+bpcer:0.017467
+acer:0.084156
+eer:0.058534
+hter:0.058385
+TPR@FPR=10E-3:0.791288
+TPR@FPR=5E-3:0.714585
+TPR@FPR=10E-4:0.496942
+
+============================================================
+Model 076 
+TP:19365, TN:42255,  FP:4992,  FN:558
+accuracy:0.917374
+precision:0.795049
+recall:0.971992
+f_measure:0.874661
+sensitivity:0.971992
+specificity:0.894342
+error_rate:0.082626
+apcer:0.105658
+bpcer:0.028008
+acer:0.066833
+eer:0.056778
+hter:0.056336
+TPR@FPR=10E-3:0.800326
+TPR@FPR=5E-3:0.710352
+TPR@FPR=10E-4:0.469109
+
+============================================================
+Model 077 
+TP:793, TN:3697,  FP:43550,  FN:19130
+accuracy:0.066845
+precision:0.017883
+recall:0.039803
+f_measure:0.024679
+sensitivity:0.039803
+specificity:0.078248
+error_rate:0.933155
+apcer:0.921752
+bpcer:0.960197
+acer:0.940974
+eer:0.943347
+hter:0.500000
+TPR@FPR=10E-3:0.042564
+TPR@FPR=5E-3:0.042564
+TPR@FPR=10E-4:0.042564
+
+============================================================
+Model 078 
+TP:18758, TN:44708,  FP:2539,  FN:1165
+accuracy:0.944856
+precision:0.880781
+recall:0.941525
+f_measure:0.910141
+sensitivity:0.941525
+specificity:0.946261
+error_rate:0.055144
+apcer:0.053739
+bpcer:0.058475
+acer:0.056107
+eer:0.055963
+hter:0.055834
+TPR@FPR=10E-3:0.792008
+TPR@FPR=5E-3:0.693526
+TPR@FPR=10E-4:0.443203
+
+============================================================
+Model 079 
+TP:572, TN:4961,  FP:42286,  FN:19351
+accuracy:0.082373
+precision:0.013346
+recall:0.028711
+f_measure:0.018222
+sensitivity:0.028711
+specificity:0.105001
+error_rate:0.917627
+apcer:0.894999
+bpcer:0.971289
+acer:0.933144
+eer:0.942383
+hter:0.500000
+TPR@FPR=10E-3:0.042077
+TPR@FPR=5E-3:0.042077
+TPR@FPR=10E-4:0.042077
+
+============================================================
+Model 080 
+TP:194, TN:10744,  FP:36503,  FN:19729
+accuracy:0.162841
+precision:0.005287
+recall:0.009737
+f_measure:0.006853
+sensitivity:0.009737
+specificity:0.227401
+error_rate:0.837159
+apcer:0.772599
+bpcer:0.990263
+acer:0.881431
+eer:0.922251
+hter:0.500000
+TPR@FPR=10E-3:0.129447
+TPR@FPR=5E-3:0.129447
+TPR@FPR=10E-4:0.129447
+
+============================================================
+Model 081 
+TP:65, TN:17819,  FP:29428,  FN:19858
+accuracy:0.266250
+precision:0.002204
+recall:0.003263
+f_measure:0.002631
+sensitivity:0.003263
+specificity:0.377146
+error_rate:0.733750
+apcer:0.622854
+bpcer:0.996737
+acer:0.809796
+eer:0.858618
+hter:0.500000
+TPR@FPR=10E-3:0.274282
+TPR@FPR=5E-3:0.274282
+TPR@FPR=10E-4:0.274282
+
+============================================================
+Model 082 
+TP:19860, TN:29563,  FP:17684,  FN:63
+accuracy:0.735790
+precision:0.528979
+recall:0.996838
+f_measure:0.691179
+sensitivity:0.996838
+specificity:0.625712
+error_rate:0.264210
+apcer:0.374288
+bpcer:0.003162
+acer:0.188725
+eer:0.073026
+hter:0.072431
+TPR@FPR=10E-3:0.751392
+TPR@FPR=5E-3:0.664952
+TPR@FPR=10E-4:0.514445
+
+============================================================
+Model 083 
+TP:19453, TN:40931,  FP:6316,  FN:470
+accuracy:0.898973
+precision:0.754899
+recall:0.976409
+f_measure:0.851484
+sensitivity:0.976409
+specificity:0.866320
+error_rate:0.101027
+apcer:0.133680
+bpcer:0.023591
+acer:0.078636
+eer:0.059929
+hter:0.059721
+TPR@FPR=10E-3:0.776896
+TPR@FPR=5E-3:0.686795
+TPR@FPR=10E-4:0.478612
+
+============================================================
+Model 084 
+TP:18791, TN:44462,  FP:2785,  FN:1132
+accuracy:0.941685
+precision:0.870921
+recall:0.943181
+f_measure:0.905612
+sensitivity:0.943181
+specificity:0.941054
+error_rate:0.058315
+apcer:0.058946
+bpcer:0.056819
+acer:0.057882
+eer:0.057973
+hter:0.057828
+TPR@FPR=10E-3:0.765255
+TPR@FPR=5E-3:0.670455
+TPR@FPR=10E-4:0.419307
+
+============================================================
+Model 085 
+TP:18191, TN:45468,  FP:1779,  FN:1732
+accuracy:0.947730
+precision:0.910916
+recall:0.913065
+f_measure:0.911990
+sensitivity:0.913065
+specificity:0.962347
+error_rate:0.052270
+apcer:0.037653
+bpcer:0.086935
+acer:0.062294
+eer:0.058581
+hter:0.058223
+TPR@FPR=10E-3:0.754334
+TPR@FPR=5E-3:0.653629
+TPR@FPR=10E-4:0.405571
+
+============================================================
+Model 086 
+TP:18360, TN:45216,  FP:2031,  FN:1563
+accuracy:0.946494
+precision:0.900397
+recall:0.921548
+f_measure:0.910850
+sensitivity:0.921548
+specificity:0.957013
+error_rate:0.053506
+apcer:0.042987
+bpcer:0.078452
+acer:0.060719
+eer:0.059111
+hter:0.059000
+TPR@FPR=10E-3:0.751032
+TPR@FPR=5E-3:0.650920
+TPR@FPR=10E-4:0.405020
+
+============================================================
+Model 087 
+TP:19474, TN:40373,  FP:6874,  FN:449
+accuracy:0.890978
+precision:0.739107
+recall:0.977463
+f_measure:0.841737
+sensitivity:0.977463
+specificity:0.854509
+error_rate:0.109022
+apcer:0.145491
+bpcer:0.022537
+acer:0.084014
+eer:0.062578
+hter:0.062374
+TPR@FPR=10E-3:0.753318
+TPR@FPR=5E-3:0.648655
+TPR@FPR=10E-4:0.428831
+
+============================================================
+Model 088 
+TP:19615, TN:38443,  FP:8804,  FN:308
+accuracy:0.864344
+precision:0.690207
+recall:0.984540
+f_measure:0.811510
+sensitivity:0.984540
+specificity:0.813660
+error_rate:0.135656
+apcer:0.186340
+bpcer:0.015460
+acer:0.100900
+eer:0.065149
+hter:0.065098
+TPR@FPR=10E-3:0.764789
+TPR@FPR=5E-3:0.674456
+TPR@FPR=10E-4:0.481025
+
+============================================================
+Model 089 
+TP:78, TN:16786,  FP:30461,  FN:19845
+accuracy:0.251064
+precision:0.002554
+recall:0.003915
+f_measure:0.003091
+sensitivity:0.003915
+specificity:0.355282
+error_rate:0.748936
+apcer:0.644718
+bpcer:0.996085
+acer:0.820402
+eer:0.877568
+hter:0.500000
+TPR@FPR=10E-3:0.232417
+TPR@FPR=5E-3:0.232417
+TPR@FPR=10E-4:0.232417
+
+============================================================
+Model 090 
+TP:94, TN:15576,  FP:31671,  FN:19829
+accuracy:0.233289
+precision:0.002959
+recall:0.004718
+f_measure:0.003637
+sensitivity:0.004718
+specificity:0.329672
+error_rate:0.766711
+apcer:0.670328
+bpcer:0.995282
+acer:0.832805
+eer:0.897955
+hter:0.500000
+TPR@FPR=10E-3:0.186573
+TPR@FPR=5E-3:0.186573
+TPR@FPR=10E-4:0.186573
+
+============================================================
+Model 091 
+TP:19462, TN:40897,  FP:6350,  FN:461
+accuracy:0.898601
+precision:0.753990
+recall:0.976861
+f_measure:0.851077
+sensitivity:0.976861
+specificity:0.865600
+error_rate:0.101399
+apcer:0.134400
+bpcer:0.023139
+acer:0.078770
+eer:0.062542
+hter:0.062248
+TPR@FPR=10E-3:0.771647
+TPR@FPR=5E-3:0.687853
+TPR@FPR=10E-4:0.473004
+
+============================================================
+Model 092 
+TP:19222, TN:42925,  FP:4322,  FN:701
+accuracy:0.925220
+precision:0.816429
+recall:0.964815
+f_measure:0.884441
+sensitivity:0.964815
+specificity:0.908523
+error_rate:0.074780
+apcer:0.091477
+bpcer:0.035185
+acer:0.063331
+eer:0.058349
+hter:0.058240
+TPR@FPR=10E-3:0.776134
+TPR@FPR=5E-3:0.677313
+TPR@FPR=10E-4:0.434567
+
+============================================================
+Model 093 
+TP:980, TN:3097,  FP:44150,  FN:18943
+accuracy:0.060697
+precision:0.021715
+recall:0.049189
+f_measure:0.030129
+sensitivity:0.049189
+specificity:0.065549
+error_rate:0.939303
+apcer:0.934451
+bpcer:0.950811
+acer:0.942631
+eer:0.943542
+hter:0.500000
+TPR@FPR=10E-3:0.031240
+TPR@FPR=5E-3:0.031240
+TPR@FPR=10E-4:0.031240
+
+============================================================
+Model 094 
+TP:773, TN:3642,  FP:43605,  FN:19150
+accuracy:0.065729
+precision:0.017419
+recall:0.038799
+f_measure:0.024043
+sensitivity:0.038799
+specificity:0.077084
+error_rate:0.934271
+apcer:0.922916
+bpcer:0.961201
+acer:0.942058
+eer:0.945000
+hter:0.500000
+TPR@FPR=10E-3:0.018075
+TPR@FPR=5E-3:0.018075
+TPR@FPR=10E-4:0.018075
+
+============================================================
+Model 095 
+TP:19596, TN:40226,  FP:7021,  FN:327
+accuracy:0.890606
+precision:0.736221
+recall:0.983587
+f_measure:0.842114
+sensitivity:0.983587
+specificity:0.851398
+error_rate:0.109394
+apcer:0.148602
+bpcer:0.016413
+acer:0.082508
+eer:0.055768
+hter:0.055577
+TPR@FPR=10E-3:0.796791
+TPR@FPR=5E-3:0.713887
+TPR@FPR=10E-4:0.523292
+
+============================================================
+Model 096 
+TP:19640, TN:39493,  FP:7754,  FN:283
+accuracy:0.880348
+precision:0.716945
+recall:0.985795
+f_measure:0.830146
+sensitivity:0.985795
+specificity:0.835884
+error_rate:0.119652
+apcer:0.164116
+bpcer:0.014205
+acer:0.089160
+eer:0.057905
+hter:0.057406
+TPR@FPR=10E-3:0.801173
+TPR@FPR=5E-3:0.739476
+TPR@FPR=10E-4:0.560755
+
+============================================================
+Model 097 
+TP:19844, TN:33840,  FP:13407,  FN:79
+accuracy:0.799226
+precision:0.596794
+recall:0.996035
+f_measure:0.746380
+sensitivity:0.996035
+specificity:0.716236
+error_rate:0.200774
+apcer:0.283764
+bpcer:0.003965
+acer:0.143865
+eer:0.064438
+hter:0.062948
+TPR@FPR=10E-3:0.796834
+TPR@FPR=5E-3:0.739666
+TPR@FPR=10E-4:0.572142
+
+============================================================
+Model 098 
+TP:97, TN:12378,  FP:34869,  FN:19826
+accuracy:0.185723
+precision:0.002774
+recall:0.004869
+f_measure:0.003534
+sensitivity:0.004869
+specificity:0.261985
+error_rate:0.814277
+apcer:0.738015
+bpcer:0.995131
+acer:0.866573
+eer:0.918933
+hter:0.500000
+TPR@FPR=10E-3:0.144517
+TPR@FPR=5E-3:0.144517
+TPR@FPR=10E-4:0.144517
+
+============================================================
+Model 099 
+TP:164, TN:9802,  FP:37445,  FN:19759
+accuracy:0.148370
+precision:0.004361
+recall:0.008232
+f_measure:0.005701
+sensitivity:0.008232
+specificity:0.207463
+error_rate:0.851630
+apcer:0.792537
+bpcer:0.991768
+acer:0.892153
+eer:0.934278
+hter:0.500000
+TPR@FPR=10E-3:0.107351
+TPR@FPR=5E-3:0.107351
+TPR@FPR=10E-4:0.107351
+
+============================================================
+Model 500 
+TP:19815, TN:36845,  FP:10402,  FN:108
+accuracy:0.843531
+precision:0.655757
+recall:0.994579
+f_measure:0.790387
+sensitivity:0.994579
+specificity:0.779838
+error_rate:0.156469
+apcer:0.220162
+bpcer:0.005421
+acer:0.112791
+eer:0.054626
+hter:0.053723
+TPR@FPR=10E-3:0.832582
+TPR@FPR=5E-3:0.773065
+TPR@FPR=10E-4:0.627765
+
+============================================================
+Model 1000 
+TP:19875, TN:36918,  FP:10329,  FN:48
+accuracy:0.845511
+precision:0.658025
+recall:0.997591
+f_measure:0.792986
+sensitivity:0.997591
+specificity:0.781383
+error_rate:0.154489
+apcer:0.218617
+bpcer:0.002409
+acer:0.110513
+eer:0.043172
+hter:0.041248
+TPR@FPR=10E-3:0.889199
+TPR@FPR=5E-3:0.843207
+TPR@FPR=10E-4:0.704002
+
+============================================================
+Model 1500 
+TP:143, TN:3499,  FP:43748,  FN:19780
+accuracy:0.054221
+precision:0.003258
+recall:0.007178
+f_measure:0.004482
+sensitivity:0.007178
+specificity:0.074058
+error_rate:0.945779
+apcer:0.925942
+bpcer:0.992822
+acer:0.959382
+eer:0.971543
+hter:0.500000
+TPR@FPR=10E-3:0.000042
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 2000 
+TP:21, TN:10692,  FP:36555,  FN:19902
+accuracy:0.159491
+precision:0.000574
+recall:0.001054
+f_measure:0.000743
+sensitivity:0.001054
+specificity:0.226300
+error_rate:0.840509
+apcer:0.773700
+bpcer:0.998946
+acer:0.886323
+eer:0.951785
+hter:0.500000
+TPR@FPR=10E-3:0.089805
+TPR@FPR=5E-3:0.089805
+TPR@FPR=10E-4:0.089805
+
+============================================================
+Model 2500 
+TP:19863, TN:41142,  FP:6105,  FN:60
+accuracy:0.908218
+precision:0.764903
+recall:0.996988
+f_measure:0.865660
+sensitivity:0.996988
+specificity:0.870785
+error_rate:0.091782
+apcer:0.129215
+bpcer:0.003012
+acer:0.066113
+eer:0.032756
+hter:0.029180
+TPR@FPR=10E-3:0.940864
+TPR@FPR=5E-3:0.906576
+TPR@FPR=10E-4:0.799987
+
+============================================================
+Model 3000 
+TP:19863, TN:39887,  FP:7360,  FN:60
+accuracy:0.889534
+precision:0.729640
+recall:0.996988
+f_measure:0.842617
+sensitivity:0.996988
+specificity:0.844223
+error_rate:0.110466
+apcer:0.155777
+bpcer:0.003012
+acer:0.079394
+eer:0.036892
+hter:0.034326
+TPR@FPR=10E-3:0.919635
+TPR@FPR=5E-3:0.872733
+TPR@FPR=10E-4:0.735200
+
+============================================================
+Model 000 
+TP:95, TN:55,  FP:145,  FN:5
+accuracy:0.500000
+precision:0.395833
+recall:0.950000
+f_measure:0.558824
+sensitivity:0.950000
+specificity:0.275000
+error_rate:0.500000
+apcer:0.725000
+bpcer:0.050000
+acer:0.387500
+eer:0.295000
+hter:0.292500
+TPR@FPR=10E-3:0.205000
+TPR@FPR=5E-3:0.005000
+TPR@FPR=10E-4:0.005000
+
+============================================================
+Model 000 
+TP:13662, TN:31347,  FP:15900,  FN:6261
+accuracy:0.670076
+precision:0.462147
+recall:0.685740
+f_measure:0.552167
+sensitivity:0.685740
+specificity:0.663471
+error_rate:0.329924
+apcer:0.336529
+bpcer:0.314260
+acer:0.325395
+eer:0.326086
+hter:0.325102
+TPR@FPR=10E-3:0.063030
+TPR@FPR=5E-3:0.032933
+TPR@FPR=10E-4:0.010350
+
+============================================================
+Model 001 
+TP:8658, TN:8263,  FP:38984,  FN:11265
+accuracy:0.251913
+precision:0.181730
+recall:0.434573
+f_measure:0.256287
+sensitivity:0.434573
+specificity:0.174889
+error_rate:0.748087
+apcer:0.825111
+bpcer:0.565427
+acer:0.695269
+eer:0.709678
+hter:0.500000
+TPR@FPR=10E-3:0.000402
+TPR@FPR=5E-3:0.000190
+TPR@FPR=10E-4:0.000085
+
+============================================================
+Model 002 
+TP:14738, TN:34393,  FP:12854,  FN:5185
+accuracy:0.731443
+precision:0.534140
+recall:0.739748
+f_measure:0.620351
+sensitivity:0.739748
+specificity:0.727940
+error_rate:0.268557
+apcer:0.272060
+bpcer:0.260252
+acer:0.266156
+eer:0.266680
+hter:0.265341
+TPR@FPR=10E-3:0.142591
+TPR@FPR=5E-3:0.099901
+TPR@FPR=10E-4:0.029822
+
+============================================================
+Model 003 
+TP:15393, TN:37060,  FP:10187,  FN:4530
+accuracy:0.780899
+precision:0.601759
+recall:0.772625
+f_measure:0.676571
+sensitivity:0.772625
+specificity:0.784388
+error_rate:0.219101
+apcer:0.215612
+bpcer:0.227375
+acer:0.221493
+eer:0.221108
+hter:0.219103
+TPR@FPR=10E-3:0.270620
+TPR@FPR=5E-3:0.203188
+TPR@FPR=10E-4:0.093932
+
+============================================================
+Model 004 
+TP:17077, TN:37824,  FP:9423,  FN:2846
+accuracy:0.817344
+precision:0.644415
+recall:0.857150
+f_measure:0.735713
+sensitivity:0.857150
+specificity:0.800559
+error_rate:0.182656
+apcer:0.199441
+bpcer:0.142850
+acer:0.171146
+eer:0.169003
+hter:0.168602
+TPR@FPR=10E-3:0.289436
+TPR@FPR=5E-3:0.201558
+TPR@FPR=10E-4:0.083138
+
+============================================================
+Model 005 
+TP:17847, TN:32910,  FP:14337,  FN:2076
+accuracy:0.755650
+precision:0.554530
+recall:0.895799
+f_measure:0.685014
+sensitivity:0.895799
+specificity:0.696552
+error_rate:0.244350
+apcer:0.303448
+bpcer:0.104201
+acer:0.203825
+eer:0.184355
+hter:0.183325
+TPR@FPR=10E-3:0.276758
+TPR@FPR=5E-3:0.186382
+TPR@FPR=10E-4:0.059136
+
+============================================================
+Model 006 
+TP:5951, TN:46466,  FP:781,  FN:13972
+accuracy:0.780363
+precision:0.883987
+recall:0.298700
+f_measure:0.446520
+sensitivity:0.298700
+specificity:0.983470
+error_rate:0.219637
+apcer:0.016530
+bpcer:0.701300
+acer:0.358915
+eer:0.216677
+hter:0.215620
+TPR@FPR=10E-3:0.175546
+TPR@FPR=5E-3:0.116113
+TPR@FPR=10E-4:0.044574
+
+============================================================
+Model 007 
+TP:321, TN:47247,  FP:0,  FN:19602
+accuracy:0.708173
+precision:1.000000
+recall:0.016112
+f_measure:0.031713
+sensitivity:0.016112
+specificity:1.000000
+error_rate:0.291827
+apcer:0.000000
+bpcer:0.983888
+acer:0.491944
+eer:0.186777
+hter:0.186298
+TPR@FPR=10E-3:0.215569
+TPR@FPR=5E-3:0.139289
+TPR@FPR=10E-4:0.035600
+
+============================================================
+Model 008 
+TP:12861, TN:44490,  FP:2757,  FN:7062
+accuracy:0.853819
+precision:0.823473
+recall:0.645535
+f_measure:0.723728
+sensitivity:0.645535
+specificity:0.941647
+error_rate:0.146181
+apcer:0.058353
+bpcer:0.354465
+acer:0.206409
+eer:0.162172
+hter:0.161891
+TPR@FPR=10E-3:0.306517
+TPR@FPR=5E-3:0.215358
+TPR@FPR=10E-4:0.068533
+
+============================================================
+Model 009 
+TP:555, TN:20910,  FP:26337,  FN:19368
+accuracy:0.319562
+precision:0.020638
+recall:0.027857
+f_measure:0.023710
+sensitivity:0.027857
+specificity:0.442568
+error_rate:0.680438
+apcer:0.557432
+bpcer:0.972143
+acer:0.764787
+eer:0.853412
+hter:0.500000
+TPR@FPR=10E-3:0.000021
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 010 
+TP:19242, TN:30132,  FP:17115,  FN:681
+accuracy:0.735060
+precision:0.529252
+recall:0.965818
+f_measure:0.683795
+sensitivity:0.965818
+specificity:0.637755
+error_rate:0.264940
+apcer:0.362245
+bpcer:0.034182
+acer:0.198213
+eer:0.140163
+hter:0.139818
+TPR@FPR=10E-3:0.412873
+TPR@FPR=5E-3:0.312549
+TPR@FPR=10E-4:0.125087
+
+============================================================
+Model 011 
+TP:19171, TN:32437,  FP:14810,  FN:752
+accuracy:0.768319
+precision:0.564168
+recall:0.962255
+f_measure:0.711302
+sensitivity:0.962255
+specificity:0.686541
+error_rate:0.231681
+apcer:0.313459
+bpcer:0.037745
+acer:0.175602
+eer:0.134811
+hter:0.134013
+TPR@FPR=10E-3:0.427943
+TPR@FPR=5E-3:0.308697
+TPR@FPR=10E-4:0.096197
+
+============================================================
+Model 012 
+TP:19249, TN:30375,  FP:16872,  FN:674
+accuracy:0.738782
+precision:0.532903
+recall:0.966170
+f_measure:0.686925
+sensitivity:0.966170
+specificity:0.642898
+error_rate:0.261218
+apcer:0.357102
+bpcer:0.033830
+acer:0.195466
+eer:0.143477
+hter:0.142708
+TPR@FPR=10E-3:0.442674
+TPR@FPR=5E-3:0.343239
+TPR@FPR=10E-4:0.145004
+
+============================================================
+Model 013 
+TP:19185, TN:34010,  FP:13237,  FN:738
+accuracy:0.791946
+precision:0.591728
+recall:0.962957
+f_measure:0.733021
+sensitivity:0.962957
+specificity:0.719834
+error_rate:0.208054
+apcer:0.280166
+bpcer:0.037043
+acer:0.158604
+eer:0.116002
+hter:0.115448
+TPR@FPR=10E-3:0.486507
+TPR@FPR=5E-3:0.381802
+TPR@FPR=10E-4:0.130421
+
+============================================================
+Model 014 
+TP:820, TN:10850,  FP:36397,  FN:19103
+accuracy:0.173738
+precision:0.022033
+recall:0.041158
+f_measure:0.028701
+sensitivity:0.041158
+specificity:0.229644
+error_rate:0.826262
+apcer:0.770356
+bpcer:0.958842
+acer:0.864599
+eer:0.891299
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 015 
+TP:919, TN:8519,  FP:38728,  FN:19004
+accuracy:0.140509
+precision:0.023180
+recall:0.046128
+f_measure:0.030854
+sensitivity:0.046128
+specificity:0.180308
+error_rate:0.859491
+apcer:0.819692
+bpcer:0.953872
+acer:0.886782
+eer:0.903368
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 016 
+TP:1372, TN:5544,  FP:41703,  FN:18551
+accuracy:0.102963
+precision:0.031851
+recall:0.068865
+f_measure:0.043557
+sensitivity:0.068865
+specificity:0.117341
+error_rate:0.897037
+apcer:0.882659
+bpcer:0.931135
+acer:0.906897
+eer:0.909865
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 017 
+TP:542, TN:10922,  FP:36325,  FN:19381
+accuracy:0.170671
+precision:0.014701
+recall:0.027205
+f_measure:0.019088
+sensitivity:0.027205
+specificity:0.231168
+error_rate:0.829329
+apcer:0.768832
+bpcer:0.972795
+acer:0.870814
+eer:0.910797
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 018 
+TP:152, TN:21523,  FP:25724,  FN:19771
+accuracy:0.322689
+precision:0.005874
+recall:0.007629
+f_measure:0.006638
+sensitivity:0.007629
+specificity:0.455542
+error_rate:0.677311
+apcer:0.544458
+bpcer:0.992371
+acer:0.768414
+eer:0.900805
+hter:0.500000
+TPR@FPR=10E-3:0.016467
+TPR@FPR=5E-3:0.016467
+TPR@FPR=10E-4:0.016467
+
+============================================================
+Model 019 
+TP:19165, TN:38757,  FP:8490,  FN:758
+accuracy:0.862319
+precision:0.693003
+recall:0.961954
+f_measure:0.805624
+sensitivity:0.961954
+specificity:0.820306
+error_rate:0.137681
+apcer:0.179694
+bpcer:0.038046
+acer:0.108870
+eer:0.087307
+hter:0.087082
+TPR@FPR=10E-3:0.612949
+TPR@FPR=5E-3:0.494232
+TPR@FPR=10E-4:0.222638
+
+============================================================
+Model 020 
+TP:537, TN:9325,  FP:37922,  FN:19386
+accuracy:0.146821
+precision:0.013963
+recall:0.026954
+f_measure:0.018396
+sensitivity:0.026954
+specificity:0.197367
+error_rate:0.853179
+apcer:0.802633
+bpcer:0.973046
+acer:0.887840
+eer:0.919741
+hter:0.500000
+TPR@FPR=10E-3:0.019091
+TPR@FPR=5E-3:0.019091
+TPR@FPR=10E-4:0.019091
+
+============================================================
+Model 021 
+TP:1277, TN:4435,  FP:42812,  FN:18646
+accuracy:0.085038
+precision:0.028964
+recall:0.064097
+f_measure:0.039899
+sensitivity:0.064097
+specificity:0.093868
+error_rate:0.914962
+apcer:0.906132
+bpcer:0.935903
+acer:0.921017
+eer:0.923116
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 022 
+TP:1355, TN:3965,  FP:43282,  FN:18568
+accuracy:0.079202
+precision:0.030356
+recall:0.068012
+f_measure:0.041976
+sensitivity:0.068012
+specificity:0.083921
+error_rate:0.920798
+apcer:0.916079
+bpcer:0.931988
+acer:0.924034
+eer:0.924289
+hter:0.500000
+TPR@FPR=10E-3:0.007090
+TPR@FPR=5E-3:0.007090
+TPR@FPR=10E-4:0.007090
+
+============================================================
+Model 023 
+TP:292, TN:13952,  FP:33295,  FN:19631
+accuracy:0.212059
+precision:0.008694
+recall:0.014656
+f_measure:0.010914
+sensitivity:0.014656
+specificity:0.295299
+error_rate:0.787941
+apcer:0.704701
+bpcer:0.985344
+acer:0.845022
+eer:0.915089
+hter:0.500000
+TPR@FPR=10E-3:0.036256
+TPR@FPR=5E-3:0.036256
+TPR@FPR=10E-4:0.036256
+
+============================================================
+Model 024 
+TP:19516, TN:33212,  FP:14035,  FN:407
+accuracy:0.784993
+precision:0.581682
+recall:0.979571
+f_measure:0.729925
+sensitivity:0.979571
+specificity:0.702944
+error_rate:0.215007
+apcer:0.297056
+bpcer:0.020429
+acer:0.158742
+eer:0.103684
+hter:0.103313
+TPR@FPR=10E-3:0.599742
+TPR@FPR=5E-3:0.520456
+TPR@FPR=10E-4:0.296082
+
+============================================================
+Model 025 
+TP:19646, TN:27546,  FP:19701,  FN:277
+accuracy:0.702576
+precision:0.499301
+recall:0.986096
+f_measure:0.662932
+sensitivity:0.986096
+specificity:0.583021
+error_rate:0.297424
+apcer:0.416979
+bpcer:0.013904
+acer:0.215441
+eer:0.126130
+hter:0.123925
+TPR@FPR=10E-3:0.547569
+TPR@FPR=5E-3:0.470189
+TPR@FPR=10E-4:0.263911
+
+============================================================
+Model 026 
+TP:19672, TN:26892,  FP:20355,  FN:251
+accuracy:0.693226
+precision:0.491468
+recall:0.987401
+f_measure:0.656280
+sensitivity:0.987401
+specificity:0.569179
+error_rate:0.306774
+apcer:0.430821
+bpcer:0.012599
+acer:0.221710
+eer:0.130138
+hter:0.128978
+TPR@FPR=10E-3:0.548479
+TPR@FPR=5E-3:0.475586
+TPR@FPR=10E-4:0.259445
+
+============================================================
+Model 027 
+TP:18536, TN:39556,  FP:7691,  FN:1387
+accuracy:0.864850
+precision:0.706753
+recall:0.930382
+f_measure:0.803294
+sensitivity:0.930382
+specificity:0.837217
+error_rate:0.135150
+apcer:0.162783
+bpcer:0.069618
+acer:0.116200
+eer:0.110860
+hter:0.110734
+TPR@FPR=10E-3:0.568248
+TPR@FPR=5E-3:0.491015
+TPR@FPR=10E-4:0.280166
+
+============================================================
+Model 028 
+TP:901, TN:9533,  FP:37714,  FN:19022
+accuracy:0.155337
+precision:0.023333
+recall:0.045224
+f_measure:0.030783
+sensitivity:0.045224
+specificity:0.201769
+error_rate:0.844663
+apcer:0.798231
+bpcer:0.954776
+acer:0.876503
+eer:0.896697
+hter:0.500000
+TPR@FPR=10E-3:0.017525
+TPR@FPR=5E-3:0.017525
+TPR@FPR=10E-4:0.017525
+
+============================================================
+Model 029 
+TP:17095, TN:44594,  FP:2653,  FN:2828
+accuracy:0.918401
+precision:0.865657
+recall:0.858054
+f_measure:0.861839
+sensitivity:0.858054
+specificity:0.943848
+error_rate:0.081599
+apcer:0.056152
+bpcer:0.141946
+acer:0.099049
+eer:0.091433
+hter:0.091040
+TPR@FPR=10E-3:0.604250
+TPR@FPR=5E-3:0.521007
+TPR@FPR=10E-4:0.305903
+
+============================================================
+Model 030 
+TP:18085, TN:43556,  FP:3691,  FN:1838
+accuracy:0.917686
+precision:0.830501
+recall:0.907745
+f_measure:0.867407
+sensitivity:0.907745
+specificity:0.921879
+error_rate:0.082314
+apcer:0.078121
+bpcer:0.092255
+acer:0.085188
+eer:0.084932
+hter:0.084842
+TPR@FPR=10E-3:0.623532
+TPR@FPR=5E-3:0.529198
+TPR@FPR=10E-4:0.302834
+
+============================================================
+Model 031 
+TP:597, TN:9162,  FP:38085,  FN:19326
+accuracy:0.145288
+precision:0.015434
+recall:0.029965
+f_measure:0.020374
+sensitivity:0.029965
+specificity:0.193917
+error_rate:0.854712
+apcer:0.806083
+bpcer:0.970035
+acer:0.888059
+eer:0.917181
+hter:0.500000
+TPR@FPR=10E-3:0.020467
+TPR@FPR=5E-3:0.020467
+TPR@FPR=10E-4:0.020467
+
+============================================================
+Model 032 
+TP:19699, TN:32217,  FP:15030,  FN:224
+accuracy:0.772905
+precision:0.567220
+recall:0.988757
+f_measure:0.720889
+sensitivity:0.988757
+specificity:0.681885
+error_rate:0.227095
+apcer:0.318115
+bpcer:0.011243
+acer:0.164679
+eer:0.084235
+hter:0.083650
+TPR@FPR=10E-3:0.659428
+TPR@FPR=5E-3:0.550003
+TPR@FPR=10E-4:0.339852
+
+============================================================
+Model 033 
+TP:102, TN:21311,  FP:25936,  FN:19821
+accuracy:0.318788
+precision:0.003917
+recall:0.005120
+f_measure:0.004439
+sensitivity:0.005120
+specificity:0.451055
+error_rate:0.681212
+apcer:0.548945
+bpcer:0.994880
+acer:0.771913
+eer:0.911466
+hter:0.500000
+TPR@FPR=10E-3:0.081952
+TPR@FPR=5E-3:0.081952
+TPR@FPR=10E-4:0.081952
+
+============================================================
+Model 034 
+TP:19810, TN:27842,  FP:19405,  FN:113
+accuracy:0.709424
+precision:0.505164
+recall:0.994328
+f_measure:0.669958
+sensitivity:0.994328
+specificity:0.589286
+error_rate:0.290576
+apcer:0.410714
+bpcer:0.005672
+acer:0.208193
+eer:0.083876
+hter:0.082376
+TPR@FPR=10E-3:0.679260
+TPR@FPR=5E-3:0.563422
+TPR@FPR=10E-4:0.345969
+
+============================================================
+Model 035 
+TP:16480, TN:45714,  FP:1533,  FN:3443
+accuracy:0.925919
+precision:0.914895
+recall:0.827185
+f_measure:0.868832
+sensitivity:0.827185
+specificity:0.967553
+error_rate:0.074081
+apcer:0.032447
+bpcer:0.172815
+acer:0.102631
+eer:0.075138
+hter:0.074773
+TPR@FPR=10E-3:0.706881
+TPR@FPR=5E-3:0.598514
+TPR@FPR=10E-4:0.316507
+
+============================================================
+Model 036 
+TP:19092, TN:42044,  FP:5203,  FN:831
+accuracy:0.910168
+precision:0.785841
+recall:0.958289
+f_measure:0.863540
+sensitivity:0.958289
+specificity:0.889877
+error_rate:0.089832
+apcer:0.110123
+bpcer:0.041711
+acer:0.075917
+eer:0.067364
+hter:0.067243
+TPR@FPR=10E-3:0.712871
+TPR@FPR=5E-3:0.606684
+TPR@FPR=10E-4:0.318221
+
+============================================================
+Model 037 
+TP:19439, TN:39641,  FP:7606,  FN:484
+accuracy:0.879559
+precision:0.718765
+recall:0.975706
+f_measure:0.827755
+sensitivity:0.975706
+specificity:0.839016
+error_rate:0.120441
+apcer:0.160984
+bpcer:0.024294
+acer:0.092639
+eer:0.067013
+hter:0.066700
+TPR@FPR=10E-3:0.724469
+TPR@FPR=5E-3:0.611446
+TPR@FPR=10E-4:0.299194
+
+============================================================
+Model 038 
+TP:19497, TN:39233,  FP:8014,  FN:426
+accuracy:0.874349
+precision:0.708698
+recall:0.978618
+f_measure:0.822069
+sensitivity:0.978618
+specificity:0.830381
+error_rate:0.125651
+apcer:0.169619
+bpcer:0.021382
+acer:0.095501
+eer:0.066607
+hter:0.066523
+TPR@FPR=10E-3:0.728300
+TPR@FPR=5E-3:0.625669
+TPR@FPR=10E-4:0.306538
+
+============================================================
+Model 039 
+TP:19716, TN:35418,  FP:11829,  FN:207
+accuracy:0.820813
+precision:0.625012
+recall:0.989610
+f_measure:0.766146
+sensitivity:0.989610
+specificity:0.749635
+error_rate:0.179187
+apcer:0.250365
+bpcer:0.010390
+acer:0.130378
+eer:0.066998
+hter:0.066772
+TPR@FPR=10E-3:0.745719
+TPR@FPR=5E-3:0.626558
+TPR@FPR=10E-4:0.347599
+
+============================================================
+Model 040 
+TP:337, TN:8981,  FP:38266,  FN:19586
+accuracy:0.138723
+precision:0.008730
+recall:0.016915
+f_measure:0.011516
+sensitivity:0.016915
+specificity:0.190086
+error_rate:0.861277
+apcer:0.809914
+bpcer:0.983085
+acer:0.896499
+eer:0.931203
+hter:0.500000
+TPR@FPR=10E-3:0.032870
+TPR@FPR=5E-3:0.032870
+TPR@FPR=10E-4:0.032870
+
+============================================================
+Model 041 
+TP:426, TN:7821,  FP:39426,  FN:19497
+accuracy:0.122778
+precision:0.010690
+recall:0.021382
+f_measure:0.014253
+sensitivity:0.021382
+specificity:0.165534
+error_rate:0.877222
+apcer:0.834466
+bpcer:0.978618
+acer:0.906542
+eer:0.929844
+hter:0.500000
+TPR@FPR=10E-3:0.024573
+TPR@FPR=5E-3:0.024573
+TPR@FPR=10E-4:0.024573
+
+============================================================
+Model 042 
+TP:19776, TN:32552,  FP:14695,  FN:147
+accuracy:0.779038
+precision:0.573700
+recall:0.992622
+f_measure:0.727139
+sensitivity:0.992622
+specificity:0.688975
+error_rate:0.220962
+apcer:0.311025
+bpcer:0.007378
+acer:0.159202
+eer:0.075184
+hter:0.075025
+TPR@FPR=10E-3:0.730650
+TPR@FPR=5E-3:0.633310
+TPR@FPR=10E-4:0.407941
+
+============================================================
+Model 043 
+TP:440, TN:7766,  FP:39481,  FN:19483
+accuracy:0.122168
+precision:0.011022
+recall:0.022085
+f_measure:0.014705
+sensitivity:0.022085
+specificity:0.164370
+error_rate:0.877832
+apcer:0.835630
+bpcer:0.977915
+acer:0.906772
+eer:0.928272
+hter:0.500000
+TPR@FPR=10E-3:0.035283
+TPR@FPR=5E-3:0.035283
+TPR@FPR=10E-4:0.035283
+
+============================================================
+Model 044 
+TP:19457, TN:39630,  FP:7617,  FN:466
+accuracy:0.879664
+precision:0.718660
+recall:0.976610
+f_measure:0.828010
+sensitivity:0.976610
+specificity:0.838783
+error_rate:0.120336
+apcer:0.161217
+bpcer:0.023390
+acer:0.092303
+eer:0.073830
+hter:0.072965
+TPR@FPR=10E-3:0.743201
+TPR@FPR=5E-3:0.636464
+TPR@FPR=10E-4:0.417762
+
+============================================================
+Model 045 
+TP:19416, TN:40176,  FP:7071,  FN:507
+accuracy:0.887182
+precision:0.733039
+recall:0.974552
+f_measure:0.836716
+sensitivity:0.974552
+specificity:0.850340
+error_rate:0.112818
+apcer:0.149660
+bpcer:0.025448
+acer:0.087554
+eer:0.072820
+hter:0.072386
+TPR@FPR=10E-3:0.741507
+TPR@FPR=5E-3:0.637966
+TPR@FPR=10E-4:0.403941
+
+============================================================
+Model 046 
+TP:268, TN:10155,  FP:37092,  FN:19655
+accuracy:0.155173
+precision:0.007173
+recall:0.013452
+f_measure:0.009357
+sensitivity:0.013452
+specificity:0.214934
+error_rate:0.844827
+apcer:0.785066
+bpcer:0.986548
+acer:0.885807
+eer:0.928528
+hter:0.500000
+TPR@FPR=10E-3:0.063835
+TPR@FPR=5E-3:0.063835
+TPR@FPR=10E-4:0.063835
+
+============================================================
+Model 047 
+TP:19393, TN:40698,  FP:6549,  FN:530
+accuracy:0.894611
+precision:0.747552
+recall:0.973398
+f_measure:0.845656
+sensitivity:0.973398
+specificity:0.861388
+error_rate:0.105389
+apcer:0.138612
+bpcer:0.026602
+acer:0.082607
+eer:0.070682
+hter:0.070216
+TPR@FPR=10E-3:0.744767
+TPR@FPR=5E-3:0.647999
+TPR@FPR=10E-4:0.436641
+
+============================================================
+Model 048 
+TP:872, TN:4621,  FP:42626,  FN:19051
+accuracy:0.081778
+precision:0.020047
+recall:0.043769
+f_measure:0.027499
+sensitivity:0.043769
+specificity:0.097805
+error_rate:0.918222
+apcer:0.902195
+bpcer:0.956231
+acer:0.929213
+eer:0.930637
+hter:0.500000
+TPR@FPR=10E-3:0.030034
+TPR@FPR=5E-3:0.030034
+TPR@FPR=10E-4:0.030034
+
+============================================================
+Model 049 
+TP:19340, TN:41406,  FP:5841,  FN:583
+accuracy:0.904362
+precision:0.768039
+recall:0.970737
+f_measure:0.857574
+sensitivity:0.970737
+specificity:0.876373
+error_rate:0.095638
+apcer:0.123627
+bpcer:0.029263
+acer:0.076445
+eer:0.068364
+hter:0.067890
+TPR@FPR=10E-3:0.754884
+TPR@FPR=5E-3:0.656804
+TPR@FPR=10E-4:0.457341
+
+============================================================
+Model 050 
+TP:616, TN:5396,  FP:41851,  FN:19307
+accuracy:0.089504
+precision:0.014505
+recall:0.030919
+f_measure:0.019747
+sensitivity:0.030919
+specificity:0.114208
+error_rate:0.910496
+apcer:0.885792
+bpcer:0.969081
+acer:0.927436
+eer:0.933105
+hter:0.500000
+TPR@FPR=10E-3:0.032171
+TPR@FPR=5E-3:0.032171
+TPR@FPR=10E-4:0.032171
+
+============================================================
+Model 051 
+TP:482, TN:6317,  FP:40930,  FN:19441
+accuracy:0.101221
+precision:0.011639
+recall:0.024193
+f_measure:0.015717
+sensitivity:0.024193
+specificity:0.133702
+error_rate:0.898779
+apcer:0.866298
+bpcer:0.975807
+acer:0.921053
+eer:0.934588
+hter:0.500000
+TPR@FPR=10E-3:0.032891
+TPR@FPR=5E-3:0.032891
+TPR@FPR=10E-4:0.032891
+
+============================================================
+Model 052 
+TP:426, TN:7125,  FP:40122,  FN:19497
+accuracy:0.112416
+precision:0.010506
+recall:0.021382
+f_measure:0.014089
+sensitivity:0.021382
+specificity:0.150803
+error_rate:0.887584
+apcer:0.849197
+bpcer:0.978618
+acer:0.913907
+eer:0.932999
+hter:0.500000
+TPR@FPR=10E-3:0.036807
+TPR@FPR=5E-3:0.036807
+TPR@FPR=10E-4:0.036807
+
+============================================================
+Model 053 
+TP:189, TN:11451,  FP:35796,  FN:19734
+accuracy:0.173292
+precision:0.005252
+recall:0.009487
+f_measure:0.006761
+sensitivity:0.009487
+specificity:0.242365
+error_rate:0.826708
+apcer:0.757635
+bpcer:0.990513
+acer:0.874074
+eer:0.927275
+hter:0.500000
+TPR@FPR=10E-3:0.108557
+TPR@FPR=5E-3:0.108557
+TPR@FPR=10E-4:0.108557
+
+============================================================
+Model 054 
+TP:266, TN:9993,  FP:37254,  FN:19657
+accuracy:0.152732
+precision:0.007090
+recall:0.013351
+f_measure:0.009261
+sensitivity:0.013351
+specificity:0.211505
+error_rate:0.847268
+apcer:0.788495
+bpcer:0.986649
+acer:0.887572
+eer:0.930767
+hter:0.500000
+TPR@FPR=10E-3:0.070756
+TPR@FPR=5E-3:0.070756
+TPR@FPR=10E-4:0.070756
+
+============================================================
+Model 055 
+TP:19486, TN:40200,  FP:7047,  FN:437
+accuracy:0.888581
+precision:0.734406
+recall:0.978066
+f_measure:0.838901
+sensitivity:0.978066
+specificity:0.850848
+error_rate:0.111419
+apcer:0.149152
+bpcer:0.021934
+acer:0.085543
+eer:0.063805
+hter:0.063407
+TPR@FPR=10E-3:0.775943
+TPR@FPR=5E-3:0.700277
+TPR@FPR=10E-4:0.480835
+
+============================================================
+Model 056 
+TP:19346, TN:42159,  FP:5088,  FN:577
+accuracy:0.915662
+precision:0.791766
+recall:0.971038
+f_measure:0.872286
+sensitivity:0.971038
+specificity:0.892311
+error_rate:0.084338
+apcer:0.107689
+bpcer:0.028962
+acer:0.068325
+eer:0.059992
+hter:0.059739
+TPR@FPR=10E-3:0.785150
+TPR@FPR=5E-3:0.700341
+TPR@FPR=10E-4:0.481068
+
+============================================================
+Model 057 
+TP:904, TN:3478,  FP:43769,  FN:19019
+accuracy:0.065237
+precision:0.020236
+recall:0.045375
+f_measure:0.027989
+sensitivity:0.045375
+specificity:0.073613
+error_rate:0.934763
+apcer:0.926387
+bpcer:0.954625
+acer:0.940506
+eer:0.941295
+hter:0.500000
+TPR@FPR=10E-3:0.019218
+TPR@FPR=5E-3:0.019218
+TPR@FPR=10E-4:0.019218
+
+============================================================
+Model 058 
+TP:19357, TN:42281,  FP:4966,  FN:566
+accuracy:0.917642
+precision:0.795831
+recall:0.971591
+f_measure:0.874972
+sensitivity:0.971591
+specificity:0.894893
+error_rate:0.082358
+apcer:0.105107
+bpcer:0.028409
+acer:0.066758
+eer:0.057030
+hter:0.056682
+TPR@FPR=10E-3:0.794400
+TPR@FPR=5E-3:0.713230
+TPR@FPR=10E-4:0.459225
+
+============================================================
+Model 059 
+TP:1031, TN:2901,  FP:44346,  FN:18892
+accuracy:0.058538
+precision:0.022721
+recall:0.051749
+f_measure:0.031577
+sensitivity:0.051749
+specificity:0.061401
+error_rate:0.941462
+apcer:0.938599
+bpcer:0.948251
+acer:0.943425
+eer:0.943464
+hter:0.500000
+TPR@FPR=10E-3:0.015895
+TPR@FPR=5E-3:0.015895
+TPR@FPR=10E-4:0.015895
+
+============================================================
+Model 060 
+TP:750, TN:3982,  FP:43265,  FN:19173
+accuracy:0.070448
+precision:0.017040
+recall:0.037645
+f_measure:0.023460
+sensitivity:0.037645
+specificity:0.084280
+error_rate:0.929552
+apcer:0.915720
+bpcer:0.962355
+acer:0.939037
+eer:0.943738
+hter:0.500000
+TPR@FPR=10E-3:0.029229
+TPR@FPR=5E-3:0.029229
+TPR@FPR=10E-4:0.029229
+
+============================================================
+Model 061 
+TP:19368, TN:42194,  FP:5053,  FN:555
+accuracy:0.916510
+precision:0.793088
+recall:0.972143
+f_measure:0.873534
+sensitivity:0.972143
+specificity:0.893051
+error_rate:0.083490
+apcer:0.106949
+bpcer:0.027857
+acer:0.067403
+eer:0.056778
+hter:0.056210
+TPR@FPR=10E-3:0.797342
+TPR@FPR=5E-3:0.726438
+TPR@FPR=10E-4:0.491841
+
+============================================================
+Model 062 
+TP:19680, TN:38143,  FP:9104,  FN:243
+accuracy:0.860846
+precision:0.683713
+recall:0.987803
+f_measure:0.808097
+sensitivity:0.987803
+specificity:0.807311
+error_rate:0.139154
+apcer:0.192689
+bpcer:0.012197
+acer:0.102443
+eer:0.060152
+hter:0.059634
+TPR@FPR=10E-3:0.790611
+TPR@FPR=5E-3:0.714310
+TPR@FPR=10E-4:0.483840
+
+============================================================
+Model 063 
+TP:325, TN:8102,  FP:39145,  FN:19598
+accuracy:0.125458
+precision:0.008234
+recall:0.016313
+f_measure:0.010944
+sensitivity:0.016313
+specificity:0.171482
+error_rate:0.874542
+apcer:0.828518
+bpcer:0.983687
+acer:0.906103
+eer:0.935176
+hter:0.500000
+TPR@FPR=10E-3:0.054734
+TPR@FPR=5E-3:0.054734
+TPR@FPR=10E-4:0.054734
+
+============================================================
+Model 064 
+TP:19638, TN:38879,  FP:8368,  FN:285
+accuracy:0.871178
+precision:0.701207
+recall:0.985695
+f_measure:0.819462
+sensitivity:0.985695
+specificity:0.822888
+error_rate:0.128822
+apcer:0.177112
+bpcer:0.014305
+acer:0.095708
+eer:0.060049
+hter:0.059075
+TPR@FPR=10E-3:0.791902
+TPR@FPR=5E-3:0.721824
+TPR@FPR=10E-4:0.498614
+
+============================================================
+Model 065 
+TP:342, TN:7579,  FP:39668,  FN:19581
+accuracy:0.117925
+precision:0.008548
+recall:0.017166
+f_measure:0.011413
+sensitivity:0.017166
+specificity:0.160412
+error_rate:0.882075
+apcer:0.839588
+bpcer:0.982834
+acer:0.911211
+eer:0.939177
+hter:0.500000
+TPR@FPR=10E-3:0.073359
+TPR@FPR=5E-3:0.073359
+TPR@FPR=10E-4:0.073359
+
+============================================================
+Model 066 
+TP:345, TN:7637,  FP:39610,  FN:19578
+accuracy:0.118833
+precision:0.008635
+recall:0.017317
+f_measure:0.011523
+sensitivity:0.017317
+specificity:0.161640
+error_rate:0.881167
+apcer:0.838360
+bpcer:0.982683
+acer:0.910522
+eer:0.938079
+hter:0.500000
+TPR@FPR=10E-3:0.074502
+TPR@FPR=5E-3:0.074502
+TPR@FPR=10E-4:0.074502
+
+============================================================
+Model 067 
+TP:258, TN:8823,  FP:38424,  FN:19665
+accuracy:0.135194
+precision:0.006670
+recall:0.012950
+f_measure:0.008805
+sensitivity:0.012950
+specificity:0.186742
+error_rate:0.864806
+apcer:0.813258
+bpcer:0.987050
+acer:0.900154
+eer:0.936115
+hter:0.500000
+TPR@FPR=10E-3:0.081995
+TPR@FPR=5E-3:0.081995
+TPR@FPR=10E-4:0.081995
+
+============================================================
+Model 068 
+TP:395, TN:6660,  FP:40587,  FN:19528
+accuracy:0.105032
+precision:0.009638
+recall:0.019826
+f_measure:0.012971
+sensitivity:0.019826
+specificity:0.140961
+error_rate:0.894968
+apcer:0.859039
+bpcer:0.980174
+acer:0.919606
+eer:0.942816
+hter:0.500000
+TPR@FPR=10E-3:0.049125
+TPR@FPR=5E-3:0.049125
+TPR@FPR=10E-4:0.049125
+
+============================================================
+Model 069 
+TP:372, TN:6449,  FP:40798,  FN:19551
+accuracy:0.101548
+precision:0.009036
+recall:0.018672
+f_measure:0.012178
+sensitivity:0.018672
+specificity:0.136495
+error_rate:0.898452
+apcer:0.863505
+bpcer:0.981328
+acer:0.922416
+eer:0.945137
+hter:0.500000
+TPR@FPR=10E-3:0.044680
+TPR@FPR=5E-3:0.044680
+TPR@FPR=10E-4:0.044680
+
+============================================================
+Model 070 
+TP:551, TN:4313,  FP:42934,  FN:19372
+accuracy:0.072413
+precision:0.012671
+recall:0.027656
+f_measure:0.017380
+sensitivity:0.027656
+specificity:0.091286
+error_rate:0.927587
+apcer:0.908714
+bpcer:0.972344
+acer:0.940529
+eer:0.947906
+hter:0.500000
+TPR@FPR=10E-3:0.031198
+TPR@FPR=5E-3:0.031198
+TPR@FPR=10E-4:0.031198
+
+============================================================
+Model 071 
+TP:19673, TN:39359,  FP:7888,  FN:250
+accuracy:0.878845
+precision:0.713798
+recall:0.987452
+f_measure:0.828616
+sensitivity:0.987452
+specificity:0.833048
+error_rate:0.121155
+apcer:0.166952
+bpcer:0.012548
+acer:0.089750
+eer:0.051888
+hter:0.051690
+TPR@FPR=10E-3:0.812179
+TPR@FPR=5E-3:0.744598
+TPR@FPR=10E-4:0.485555
+
+============================================================
+Model 072 
+TP:19525, TN:41973,  FP:5274,  FN:398
+accuracy:0.915558
+precision:0.787330
+recall:0.980023
+f_measure:0.873172
+sensitivity:0.980023
+specificity:0.888374
+error_rate:0.084442
+apcer:0.111626
+bpcer:0.019977
+acer:0.065802
+eer:0.051657
+hter:0.051261
+TPR@FPR=10E-3:0.817682
+TPR@FPR=5E-3:0.741296
+TPR@FPR=10E-4:0.454611
+
+============================================================
+Model 073 
+TP:19496, TN:42336,  FP:4911,  FN:427
+accuracy:0.920530
+precision:0.798787
+recall:0.978567
+f_measure:0.879585
+sensitivity:0.978567
+specificity:0.896057
+error_rate:0.079470
+apcer:0.103943
+bpcer:0.021433
+acer:0.062688
+eer:0.052610
+hter:0.052208
+TPR@FPR=10E-3:0.825555
+TPR@FPR=5E-3:0.751688
+TPR@FPR=10E-4:0.435033
+
+============================================================
+Model 074 
+TP:257, TN:7034,  FP:40213,  FN:19666
+accuracy:0.108545
+precision:0.006350
+recall:0.012900
+f_measure:0.008511
+sensitivity:0.012900
+specificity:0.148877
+error_rate:0.891455
+apcer:0.851123
+bpcer:0.987100
+acer:0.919112
+eer:0.949601
+hter:0.500000
+TPR@FPR=10E-3:0.055474
+TPR@FPR=5E-3:0.055474
+TPR@FPR=10E-4:0.055474
+
+============================================================
+Model 075 
+TP:19854, TN:33111,  FP:14136,  FN:69
+accuracy:0.788522
+precision:0.584113
+recall:0.996537
+f_measure:0.736520
+sensitivity:0.996537
+specificity:0.700806
+error_rate:0.211478
+apcer:0.299194
+bpcer:0.003463
+acer:0.151328
+eer:0.051219
+hter:0.050979
+TPR@FPR=10E-3:0.831058
+TPR@FPR=5E-3:0.754799
+TPR@FPR=10E-4:0.496645
+
+============================================================
+Model 076 
+TP:19423, TN:42950,  FP:4297,  FN:500
+accuracy:0.928584
+precision:0.818845
+recall:0.974903
+f_measure:0.890085
+sensitivity:0.974903
+specificity:0.909052
+error_rate:0.071416
+apcer:0.090948
+bpcer:0.025097
+acer:0.058022
+eer:0.050188
+hter:0.050019
+TPR@FPR=10E-3:0.831841
+TPR@FPR=5E-3:0.754990
+TPR@FPR=10E-4:0.468749
+
+============================================================
+Model 077 
+TP:197, TN:7948,  FP:39299,  FN:19726
+accuracy:0.121259
+precision:0.004988
+recall:0.009888
+f_measure:0.006631
+sensitivity:0.009888
+specificity:0.168222
+error_rate:0.878741
+apcer:0.831778
+bpcer:0.990112
+acer:0.910945
+eer:0.949250
+hter:0.500000
+TPR@FPR=10E-3:0.062099
+TPR@FPR=5E-3:0.062099
+TPR@FPR=10E-4:0.062099
+
+============================================================
+Model 078 
+TP:19296, TN:43736,  FP:3511,  FN:627
+accuracy:0.938395
+precision:0.846056
+recall:0.968529
+f_measure:0.903159
+sensitivity:0.968529
+specificity:0.925688
+error_rate:0.061605
+apcer:0.074312
+bpcer:0.031471
+acer:0.052891
+eer:0.048375
+hter:0.048025
+TPR@FPR=10E-3:0.832730
+TPR@FPR=5E-3:0.755265
+TPR@FPR=10E-4:0.468622
+
+============================================================
+Model 079 
+TP:458, TN:4642,  FP:42605,  FN:19465
+accuracy:0.075927
+precision:0.010636
+recall:0.022989
+f_measure:0.014543
+sensitivity:0.022989
+specificity:0.098250
+error_rate:0.924073
+apcer:0.901750
+bpcer:0.977011
+acer:0.939381
+eer:0.950157
+hter:0.500000
+TPR@FPR=10E-3:0.024658
+TPR@FPR=5E-3:0.024658
+TPR@FPR=10E-4:0.024658
+
+============================================================
+Model 080 
+TP:292, TN:6832,  FP:40415,  FN:19631
+accuracy:0.106059
+precision:0.007173
+recall:0.014656
+f_measure:0.009632
+sensitivity:0.014656
+specificity:0.144602
+error_rate:0.893941
+apcer:0.855398
+bpcer:0.985344
+acer:0.920371
+eer:0.947742
+hter:0.500000
+TPR@FPR=10E-3:0.047305
+TPR@FPR=5E-3:0.047305
+TPR@FPR=10E-4:0.047305
+
+============================================================
+Model 081 
+TP:194, TN:9374,  FP:37873,  FN:19729
+accuracy:0.142445
+precision:0.005096
+recall:0.009737
+f_measure:0.006691
+sensitivity:0.009737
+specificity:0.198404
+error_rate:0.857555
+apcer:0.801596
+bpcer:0.990263
+acer:0.895929
+eer:0.938906
+hter:0.500000
+TPR@FPR=10E-3:0.088006
+TPR@FPR=5E-3:0.088006
+TPR@FPR=10E-4:0.088006
+
+============================================================
+Model 082 
+TP:19499, TN:40772,  FP:6475,  FN:424
+accuracy:0.897290
+precision:0.750712
+recall:0.978718
+f_measure:0.849685
+sensitivity:0.978718
+specificity:0.862954
+error_rate:0.102710
+apcer:0.137046
+bpcer:0.021282
+acer:0.079164
+eer:0.060085
+hter:0.060015
+TPR@FPR=10E-3:0.785320
+TPR@FPR=5E-3:0.713865
+TPR@FPR=10E-4:0.694605
+
+============================================================
+Model 083 
+TP:19686, TN:36610,  FP:10637,  FN:237
+accuracy:0.838112
+precision:0.649210
+recall:0.988104
+f_measure:0.783585
+sensitivity:0.988104
+specificity:0.774864
+error_rate:0.161888
+apcer:0.225136
+bpcer:0.011896
+acer:0.118516
+eer:0.065871
+hter:0.064740
+TPR@FPR=10E-3:0.761255
+TPR@FPR=5E-3:0.681800
+TPR@FPR=10E-4:0.495756
+
+============================================================
+Model 084 
+TP:19466, TN:40395,  FP:6852,  FN:457
+accuracy:0.891187
+precision:0.739646
+recall:0.977062
+f_measure:0.841937
+sensitivity:0.977062
+specificity:0.854975
+error_rate:0.108813
+apcer:0.145025
+bpcer:0.022938
+acer:0.083982
+eer:0.063783
+hter:0.062869
+TPR@FPR=10E-3:0.762863
+TPR@FPR=5E-3:0.687959
+TPR@FPR=10E-4:0.471226
+
+============================================================
+Model 085 
+TP:19059, TN:43251,  FP:3996,  FN:864
+accuracy:0.927646
+precision:0.826675
+recall:0.956633
+f_measure:0.886919
+sensitivity:0.956633
+specificity:0.915423
+error_rate:0.072354
+apcer:0.084577
+bpcer:0.043367
+acer:0.063972
+eer:0.062233
+hter:0.062031
+TPR@FPR=10E-3:0.768133
+TPR@FPR=5E-3:0.681313
+TPR@FPR=10E-4:0.429742
+
+============================================================
+Model 086 
+TP:18902, TN:43685,  FP:3562,  FN:1021
+accuracy:0.931770
+precision:0.841435
+recall:0.948753
+f_measure:0.891877
+sensitivity:0.948753
+specificity:0.924609
+error_rate:0.068230
+apcer:0.075391
+bpcer:0.051247
+acer:0.063319
+eer:0.062481
+hter:0.062240
+TPR@FPR=10E-3:0.771478
+TPR@FPR=5E-3:0.674794
+TPR@FPR=10E-4:0.426821
+
+============================================================
+Model 087 
+TP:19312, TN:41740,  FP:5507,  FN:611
+accuracy:0.908918
+precision:0.778114
+recall:0.969332
+f_measure:0.863260
+sensitivity:0.969332
+specificity:0.883442
+error_rate:0.091082
+apcer:0.116558
+bpcer:0.030668
+acer:0.073613
+eer:0.063744
+hter:0.063535
+TPR@FPR=10E-3:0.758228
+TPR@FPR=5E-3:0.675048
+TPR@FPR=10E-4:0.446822
+
+============================================================
+Model 088 
+TP:19367, TN:41228,  FP:6019,  FN:556
+accuracy:0.902114
+precision:0.762901
+recall:0.972093
+f_measure:0.854885
+sensitivity:0.972093
+specificity:0.872606
+error_rate:0.097886
+apcer:0.127394
+bpcer:0.027907
+acer:0.077651
+eer:0.064242
+hter:0.063867
+TPR@FPR=10E-3:0.762588
+TPR@FPR=5E-3:0.671365
+TPR@FPR=10E-4:0.427794
+
+============================================================
+Model 089 
+TP:465, TN:6855,  FP:40392,  FN:19458
+accuracy:0.108977
+precision:0.011381
+recall:0.023340
+f_measure:0.015301
+sensitivity:0.023340
+specificity:0.145089
+error_rate:0.891023
+apcer:0.854911
+bpcer:0.976660
+acer:0.915786
+eer:0.934645
+hter:0.500000
+TPR@FPR=10E-3:0.061083
+TPR@FPR=5E-3:0.061083
+TPR@FPR=10E-4:0.061083
+
+============================================================
+Model 090 
+TP:284, TN:9304,  FP:37943,  FN:19639
+accuracy:0.142742
+precision:0.007429
+recall:0.014255
+f_measure:0.009768
+sensitivity:0.014255
+specificity:0.196923
+error_rate:0.857258
+apcer:0.803077
+bpcer:0.985745
+acer:0.894411
+eer:0.932956
+hter:0.500000
+TPR@FPR=10E-3:0.078926
+TPR@FPR=5E-3:0.078926
+TPR@FPR=10E-4:0.078926
+
+============================================================
+Model 091 
+TP:19478, TN:39905,  FP:7342,  FN:445
+accuracy:0.884070
+precision:0.726249
+recall:0.977664
+f_measure:0.833408
+sensitivity:0.977664
+specificity:0.844604
+error_rate:0.115930
+apcer:0.155396
+bpcer:0.022336
+acer:0.088866
+eer:0.067200
+hter:0.066913
+TPR@FPR=10E-3:0.758863
+TPR@FPR=5E-3:0.677588
+TPR@FPR=10E-4:0.436557
+
+============================================================
+Model 092 
+TP:19661, TN:36929,  FP:10318,  FN:262
+accuracy:0.842489
+precision:0.655826
+recall:0.986849
+f_measure:0.787984
+sensitivity:0.986849
+specificity:0.781616
+error_rate:0.157511
+apcer:0.218384
+bpcer:0.013151
+acer:0.115767
+eer:0.069786
+hter:0.068619
+TPR@FPR=10E-3:0.755032
+TPR@FPR=5E-3:0.670942
+TPR@FPR=10E-4:0.451097
+
+============================================================
+Model 093 
+TP:114, TN:14409,  FP:32838,  FN:19809
+accuracy:0.216213
+precision:0.003460
+recall:0.005722
+f_measure:0.004312
+sensitivity:0.005722
+specificity:0.304972
+error_rate:0.783787
+apcer:0.695028
+bpcer:0.994278
+acer:0.844653
+eer:0.904281
+hter:0.500000
+TPR@FPR=10E-3:0.171461
+TPR@FPR=5E-3:0.171461
+TPR@FPR=10E-4:0.171461
+
+============================================================
+Model 094 
+TP:164, TN:12046,  FP:35201,  FN:19759
+accuracy:0.181778
+precision:0.004637
+recall:0.008232
+f_measure:0.005933
+sensitivity:0.008232
+specificity:0.254958
+error_rate:0.818222
+apcer:0.745042
+bpcer:0.991768
+acer:0.868405
+eer:0.927161
+hter:0.500000
+TPR@FPR=10E-3:0.110293
+TPR@FPR=5E-3:0.110293
+TPR@FPR=10E-4:0.110293
+
+============================================================
+Model 095 
+TP:19612, TN:38826,  FP:8421,  FN:311
+accuracy:0.870001
+precision:0.699604
+recall:0.984390
+f_measure:0.817916
+sensitivity:0.984390
+specificity:0.821766
+error_rate:0.129999
+apcer:0.178234
+bpcer:0.015610
+acer:0.096922
+eer:0.064164
+hter:0.063779
+TPR@FPR=10E-3:0.769213
+TPR@FPR=5E-3:0.697737
+TPR@FPR=10E-4:0.453045
+
+============================================================
+Model 096 
+TP:19583, TN:39481,  FP:7766,  FN:340
+accuracy:0.879321
+precision:0.716041
+recall:0.982934
+f_measure:0.828524
+sensitivity:0.982934
+specificity:0.835630
+error_rate:0.120679
+apcer:0.164370
+bpcer:0.017066
+acer:0.090718
+eer:0.063887
+hter:0.063333
+TPR@FPR=10E-3:0.776684
+TPR@FPR=5E-3:0.700044
+TPR@FPR=10E-4:0.443584
+
+============================================================
+Model 097 
+TP:19837, TN:33376,  FP:13871,  FN:86
+accuracy:0.792214
+precision:0.588495
+recall:0.995683
+f_measure:0.739759
+sensitivity:0.995683
+specificity:0.706415
+error_rate:0.207786
+apcer:0.293585
+bpcer:0.004317
+acer:0.148951
+eer:0.061728
+hter:0.061459
+TPR@FPR=10E-3:0.783563
+TPR@FPR=5E-3:0.712934
+TPR@FPR=10E-4:0.476771
+
+============================================================
+Model 098 
+TP:403, TN:6660,  FP:40587,  FN:19520
+accuracy:0.105151
+precision:0.009832
+recall:0.020228
+f_measure:0.013232
+sensitivity:0.020228
+specificity:0.140961
+error_rate:0.894849
+apcer:0.859039
+bpcer:0.979772
+acer:0.919405
+eer:0.938694
+hter:0.500000
+TPR@FPR=10E-3:0.062078
+TPR@FPR=5E-3:0.062078
+TPR@FPR=10E-4:0.062078
+
+============================================================
+Model 099 
+TP:574, TN:5283,  FP:41964,  FN:19349
+accuracy:0.087197
+precision:0.013494
+recall:0.028811
+f_measure:0.018379
+sensitivity:0.028811
+specificity:0.111817
+error_rate:0.912803
+apcer:0.888183
+bpcer:0.971189
+acer:0.929686
+eer:0.939972
+hter:0.500000
+TPR@FPR=10E-3:0.042183
+TPR@FPR=5E-3:0.042183
+TPR@FPR=10E-4:0.042183
+
+============================================================
+Model 500 
+TP:19582, TN:41715,  FP:5532,  FN:341
+accuracy:0.912565
+precision:0.779724
+recall:0.982884
+f_measure:0.869596
+sensitivity:0.982884
+specificity:0.882913
+error_rate:0.087435
+apcer:0.117087
+bpcer:0.017116
+acer:0.067101
+eer:0.046155
+hter:0.046000
+TPR@FPR=10E-3:0.836561
+TPR@FPR=5E-3:0.748915
+TPR@FPR=10E-4:0.706944
+
+============================================================
+Model 1000 
+TP:19736, TN:43909,  FP:3338,  FN:187
+accuracy:0.947521
+precision:0.855335
+recall:0.990614
+f_measure:0.918018
+sensitivity:0.990614
+specificity:0.929350
+error_rate:0.052479
+apcer:0.070650
+bpcer:0.009386
+acer:0.040018
+eer:0.028499
+hter:0.028347
+TPR@FPR=10E-3:0.931742
+TPR@FPR=5E-3:0.895231
+TPR@FPR=10E-4:0.870891
+
+============================================================
+Model 1500 
+TP:159, TN:2923,  FP:44324,  FN:19764
+accuracy:0.045884
+precision:0.003574
+recall:0.007981
+f_measure:0.004937
+sensitivity:0.007981
+specificity:0.061866
+error_rate:0.954116
+apcer:0.938134
+bpcer:0.992019
+acer:0.965076
+eer:0.975395
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 2000 
+TP:165, TN:3408,  FP:43839,  FN:19758
+accuracy:0.053193
+precision:0.003750
+recall:0.008282
+f_measure:0.005162
+sensitivity:0.008282
+specificity:0.072132
+error_rate:0.946807
+apcer:0.927868
+bpcer:0.991718
+acer:0.959793
+eer:0.970480
+hter:0.500000
+TPR@FPR=10E-3:0.000000
+TPR@FPR=5E-3:0.000000
+TPR@FPR=10E-4:0.000000
+
+============================================================
+Model 2500 
+TP:19905, TN:35402,  FP:11845,  FN:18
+accuracy:0.823388
+precision:0.626929
+recall:0.999097
+f_measure:0.770422
+sensitivity:0.999097
+specificity:0.749296
+error_rate:0.176612
+apcer:0.250704
+bpcer:0.000903
+acer:0.125804
+eer:0.026675
+hter:0.026473
+TPR@FPR=10E-3:0.931551
+TPR@FPR=5E-3:0.876521
+TPR@FPR=10E-4:0.752916
+
+============================================================
+Model 3000 
+TP:19878, TN:37843,  FP:9404,  FN:45
+accuracy:0.859327
+precision:0.678847
+recall:0.997741
+f_measure:0.807967
+sensitivity:0.997741
+specificity:0.800961
+error_rate:0.140673
+apcer:0.199039
+bpcer:0.002259
+acer:0.100649
+eer:0.034459
+hter:0.032239
+TPR@FPR=10E-3:0.922514
+TPR@FPR=5E-3:0.877918
+TPR@FPR=10E-4:0.746883
+
+============================================================
+Model 3500 
+TP:19850, TN:41691,  FP:5556,  FN:73
+accuracy:0.916198
+precision:0.781312
+recall:0.996336
+f_measure:0.875819
+sensitivity:0.996336
+specificity:0.882405
+error_rate:0.083802
+apcer:0.117595
+bpcer:0.003664
+acer:0.060629
+eer:0.020483
+hter:0.020329
+TPR@FPR=10E-3:0.955616
+TPR@FPR=5E-3:0.911825
+TPR@FPR=10E-4:0.822190
+
+============================================================
+Model 4000 
+TP:133, TN:3910,  FP:43337,  FN:19790
+accuracy:0.060191
+precision:0.003060
+recall:0.006676
+f_measure:0.004196
+sensitivity:0.006676
+specificity:0.082757
+error_rate:0.939809
+apcer:0.917243
+bpcer:0.993324
+acer:0.955284
+eer:0.968366
+hter:0.500000
+TPR@FPR=10E-3:0.050268
+TPR@FPR=5E-3:0.050268
+TPR@FPR=10E-4:0.050268
+
+============================================================
+Model 4500 
+TP:19845, TN:42519,  FP:4728,  FN:78
+accuracy:0.928450
+precision:0.807594
+recall:0.996085
+f_measure:0.891990
+sensitivity:0.996085
+specificity:0.899930
+error_rate:0.071550
+apcer:0.100070
+bpcer:0.003915
+acer:0.051992
+eer:0.023069
+hter:0.022806
+TPR@FPR=10E-3:0.946960
+TPR@FPR=5E-3:0.914534
+TPR@FPR=10E-4:0.845366
+
+============================================================
+Model 5000 
+TP:30, TN:8258,  FP:38989,  FN:19893
+accuracy:0.123388
+precision:0.000769
+recall:0.001506
+f_measure:0.001018
+sensitivity:0.001506
+specificity:0.174784
+error_rate:0.876612
+apcer:0.825216
+bpcer:0.998494
+acer:0.911855
+eer:0.938878
+hter:0.500000
+TPR@FPR=10E-3:0.118780
+TPR@FPR=5E-3:0.118780
+TPR@FPR=10E-4:0.118780
+
+============================================================
+Model 5500 
+TP:19850, TN:42815,  FP:4432,  FN:73
+accuracy:0.932931
+precision:0.817478
+recall:0.996336
+f_measure:0.898088
+sensitivity:0.996336
+specificity:0.906195
+error_rate:0.067069
+apcer:0.093805
+bpcer:0.003664
+acer:0.048735
+eer:0.028556
+hter:0.023592
+TPR@FPR=10E-3:0.958283
+TPR@FPR=5E-3:0.927318
+TPR@FPR=10E-4:0.857261
+
+============================================================
+Model 6000 
+TP:38, TN:6713,  FP:40534,  FN:19885
+accuracy:0.100506
+precision:0.000937
+recall:0.001907
+f_measure:0.001256
+sensitivity:0.001907
+specificity:0.142083
+error_rate:0.899494
+apcer:0.857917
+bpcer:0.998093
+acer:0.928005
+eer:0.945938
+hter:0.500000
+TPR@FPR=10E-3:0.104409
+TPR@FPR=5E-3:0.104409
+TPR@FPR=10E-4:0.104409
+
+============================================================
+Model 6500 
+TP:36, TN:7642,  FP:39605,  FN:19887
+accuracy:0.114307
+precision:0.000908
+recall:0.001807
+f_measure:0.001209
+sensitivity:0.001807
+specificity:0.161746
+error_rate:0.885693
+apcer:0.838254
+bpcer:0.998193
+acer:0.918224
+eer:0.942736
+hter:0.500000
+TPR@FPR=10E-3:0.110864
+TPR@FPR=5E-3:0.110864
+TPR@FPR=10E-4:0.110864
+
