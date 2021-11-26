@@ -99,7 +99,7 @@ class customData(Dataset):
         self.loader = loader
 
     def __len__(self):
-        return len(self.img_name)
+        return 300#len(self.img_name)
 
     def __getitem__(self, item):
         try:
