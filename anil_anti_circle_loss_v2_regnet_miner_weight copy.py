@@ -341,9 +341,9 @@ if __name__ == '__main__':
                         help='random seed (default: 1)')   
     
     # Path
-    parser.add_argument('--data_path', default='../../sinica/CelebA_Data/trainSquareCropped', type=str,
+    parser.add_argument('--data_path', default='../CelebA_Data/trainSquareCropped', type=str,
         help='Please specify path to the ImageNet training data.')
-    parser.add_argument("--txt_path", default='../../sinica/CelebA_Data/metas/intra_test/train_label.txt', type=str)
+    parser.add_argument("--txt_path", default='../CelebA_Data/metas/intra_test/train_label.txt', type=str)
     parser.add_argument('--results_path', type=str, default="output/anil_anti_circle_v2_regnet_weights/", metavar='S',
                         help='output dir')
     parser.add_argument('--wandb_name', type=str, default="anil_anti_record_all", metavar='S',
@@ -354,8 +354,8 @@ if __name__ == '__main__':
                         help='Pin CPU memory in DataLoader for more efficient (sometimes) transfer to GPU.')   
     parser.add_argument('--test_batch_size', type=int, default=500, metavar='N',
                     help='number of ways (default: 5)')        
-    parser.add_argument('--test_data_path', default='../../sinica/CelebA_Data/testSquareCropped', type=str)
-    parser.add_argument("--test_txt_path", default='../../sinica/CelebA_Data/metas/intra_test/test_label.txt', type=str)         
+    parser.add_argument('--test_data_path', default='../CelebA_Data/testSquareCropped', type=str)
+    parser.add_argument("--test_txt_path", default='../CelebA_Data/metas/intra_test/test_label.txt', type=str)         
     parser.add_argument('--num_workers', default=10, type=int)   
     parser.add_argument('--dataset1', type=str, default='CelebA')
     parser.add_argument('--tstdataset', type=str, default='CelebA') 
